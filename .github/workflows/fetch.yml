@@ -1,16 +1,18 @@
 name: Fetch News Feed
 on:
   schedule:
-    - cron: '0 * * * *'   # runs every hour
-  workflow_dispatch:        # lets you run it manually too
+    - cron: '0 * * * *'
+  workflow_dispatch:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
       - run: mkdir -p docs && node fetch-news.js
       - run: |
           git config user.email "action@github.com"
