@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T19:01:04.295Z",
+  "updated": "2026-05-09T20:42:13.615Z",
   "main": [
     {
       "title": "Will NYC rent-stabilized apartments get a rent freeze?",
@@ -34,15 +34,6 @@
       "pubDate": "Fri, 08 May 2026 18:50:03 GMT",
       "source": "Reuters",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPN29KOUNYakhlRVlVSHVJcHFqWGNpU1JCSXJ4aDlWU1V3VC05aEVWbXNsc3ZRR3dVZmN6VUY5anhFbXBnbHBSMngxSGxfTFJ0Vng0OGZJWFBSX2hmSkR1ZG9SZkJLMDhrS2VFYmx",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Vote Brings ‘Freeze the Rent’ Closer to Reality in New York",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUlxZ2YzTFFQblBzMXVvMERYRWl5VGs2UzBFQVd0RFhpRlM0aFlUTzFVSFZCUXl2TTA5TGk1bGF4a3duYVZSZmJXaS0tUExYQmc5aVNCZVhNR3FoSXRhMzJmX0xydHFGRmFtQmJ4UHY3TFNvN1U1aEUtY08tdkZDTlBlX1Fta2EzVmZfbzJvTmlkZzg?oc=5",
-      "pubDate": "Fri, 08 May 2026 17:56:00 GMT",
-      "source": "The New York Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUlxZ2YzTFFQblBzMXVvMERYRWl5VGs2UzBFQVd0RFhpRlM0aFlUTzFVSFZCUXl2TTA5TGk1bGF4a3duYVZSZmJXaS0tUExYQmc5aVNCZVhNR3FoSXRhMzJmX0xydHFGRmFtQmJ",
       "category": "RGB",
       "thumb": ""
     },
@@ -98,6 +89,15 @@
       "source": "The American Bazaar",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0dtSkFKNi15N21KclBXdG5xUHRSd29aR0pkUnF5Zjh1Nl8wT3NkaG96NklnSzdkbDcxME5KR2pzZGNlblB3WWE0TFEyMkd6V2FMOS1wWEI0cWF6ZTdQellaeUxDbzFSckdFN19",
       "category": "Bad Landlord",
+      "thumb": ""
+    },
+    {
+      "title": "Vote Brings ‘Freeze the Rent’ Closer to Reality in New York",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUlxZ2YzTFFQblBzMXVvMERYRWl5VGs2UzBFQVd0RFhpRlM0aFlUTzFVSFZCUXl2TTA5TGk1bGF4a3duYVZSZmJXaS0tUExYQmc5aVNCZVhNR3FoSXRhMzJmX0xydHFGRmFtQmJ4UHY3TFNvN1U1aEUtY08tdkZDTlBlX1Fta2EzVmZfbzJvTmlkZzg?oc=5",
+      "pubDate": "Fri, 08 May 2026 06:36:07 GMT",
+      "source": "The New York Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUlxZ2YzTFFQblBzMXVvMERYRWl5VGs2UzBFQVd0RFhpRlM0aFlUTzFVSFZCUXl2TTA5TGk1bGF4a3duYVZSZmJXaS0tUExYQmc5aVNCZVhNR3FoSXRhMzJmX0xydHFGRmFtQmJ",
+      "category": "RGB",
       "thumb": ""
     },
     {
@@ -247,7 +247,7 @@
     {
       "title": "Claire Valdez calls for a rent freeze – and universal rent control",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0Z0Q3VfaWNOMGYzUWdKQWxvOGhwM0NfWEFJUnROeHlTR0FDZ1FSRlNaUE8yNDB5U1BpcEtFRFppTm1MOWllaUViRG5OMXRzZS1aTjB3MDZEcVNkNTVPV3dNaW1vWmxjZUZDamVtVFNtUjdIVzU5ZGtkNXpGWTB2V0ZZdTBYUGlkRnFndkZONFZiZndDZkludGg4dWllZEVqMFNCVjNrNk52R3BKOHdHY2ZB?oc=5",
-      "pubDate": "Fri, 01 May 2026 09:00:00 GMT",
+      "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
       "source": "City &amp; State New York",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0Z0Q3VfaWNOMGYzUWdKQWxvOGhwM0NfWEFJUnROeHlTR0FDZ1FSRlNaUE8yNDB5U1BpcEtFRFppTm1MOWllaUViRG5OMXRzZS1aTjB3MDZEcVNkNTVPV3dNaW1vWmxjZUZDamV",
       "category": "RGB",
@@ -281,12 +281,30 @@
       "thumb": ""
     },
     {
+      "title": "New York’s Real Pied-à-Terre Problem",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmhGaDFrZkZIWDBLWkU5bERGVDQ0ZFBlNWpWZDdBbkNlbVJ0TGpONWI1VkYxaVI2X251bGNWdUk0dlRtWDNjVEJ1RUprc0tndC1ZSEpDVXUyczdRNVN1WlhFeXF2VWFwSm5JTXA3a3NYdmF3UTI0X1NSRnhIRkZWVThhT0FKbVlqZC1FNTMwUzhkYVk?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "source": "City Journal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmhGaDFrZkZIWDBLWkU5bERGVDQ0ZFBlNWpWZDdBbkNlbVJ0TGpONWI1VkYxaVI2X251bGNWdUk0dlRtWDNjVEJ1RUprc0tndC1ZSEpDVXUyczdRNVN1WlhFeXF2VWFwSm5JTXA",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "Mamdani rent board pick’s fraught landlord record",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHp2TVROeFVjQUNMYy00VG4zOVdBX1puNEFhYVo3OWozVmNmMDhXYmxJUUdmV0RsQ3VlVzJmdWhhN2wxelUtSHo4V2x3ZklLMzBvbjFDYkh1VU1nWlNDN3ozRXR1cTZVVlhKUXVodlpfc3JMR1gwc0loQVYwRjZkQTRlU0N5QXUzM3ZfYlBkeEYtcnFEZy1rbTBPYkc0V1lIVXNfTzFqNU5vWHh6a09KN1NVai1yOVVobFJFbndqRmk?oc=5",
       "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
       "source": "Politico",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHp2TVROeFVjQUNMYy00VG4zOVdBX1puNEFhYVo3OWozVmNmMDhXYmxJUUdmV0RsQ3VlVzJmdWhhN2wxelUtSHo4V2x3ZklLMzBvbjFDYkh1VU1nWlNDN3ozRXR1cTZVVlhKUXV",
       "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "New HUD rules will stop sheltering illegals in public housing. Here's who really benefits",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFJSUkhtSEhVdXlfcFpNYzdQczBfQTByVGF6aGRrNHA1aUFDb1RPV0RwdjNZeVhwZmtnbkhNTkF2c3hvSEpzbXQyWjEtNzBZRHhCVUpJRmdnNURrS1BKTU1HSlU4S0FpYnRyeTF4VzBudzNIZEtSWUhPTzQ5QWJXRUtrYmwySEJuUGdRY3Y4VjEzQXBhNlFCUHhqd0pxRE9jck9od3BBMTBsLW_SAbABQVVfeXFMTi11RE4zb1NLMzk4bkw1YlZacUM1MmRxU0lZWGl3dlpzYk1fanhaUUI0cHNGWHNHM0duam01TTJtdkJwVGdvVDRtVGEzMmt1OXVnQ1dFN2Q1M1JOVHJsQi02cEs4MmMtb3RqOVhXYjl6S1JKQnVBa0RaclJGcm43WkpGV3paZW5tYTVpVFlsbWktNVl5LS1hb283WW12d19MNWtPNEk2c2xXRDBlNGtQVUE?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "source": "Fox News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFJSUkhtSEhVdXlfcFpNYzdQczBfQTByVGF6aGRrNHA1aUFDb1RPV0RwdjNZeVhwZmtnbkhNTkF2c3hvSEpzbXQyWjEtNzBZRHhCVUpJRmdnNURrS1BKTU1HSlU4S0FpYnRyeTF",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -407,11 +425,20 @@
       "thumb": ""
     },
     {
-      "title": "New York City’s Rent-Stabilized Buildings Are Becoming a Long-Term Hold",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWQzRDItYTFudXVGWk5qdUpNU1VtOUpnV1lDWHpXTk1LZS1OTVJUbDZoNmlkOTJsZGhVS29Qd2RsWEVBTDBFc2dZU3FkTUtVZ0l2WFE4VEFNWXRXRXN0RE03VGQySVltbk1JQjJwM3dYSUUyb1ExeXQ1V3NHWTlnVXZSSzQxc0FpMF80Wm16QXhyRnc0alF2b0VacXp6TEhnZ3c?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "source": "Commercial Observer",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORWQzRDItYTFudXVGWk5qdUpNU1VtOUpnV1lDWHpXTk1LZS1OTVJUbDZoNmlkOTJsZGhVS29Qd2RsWEVBTDBFc2dZU3FkTUtVZ0l2WFE4VEFNWXRXRXN0RE03VGQySVltbk1JQjJ",
+      "title": "New Rent Guidelines Board reports fuel competing cases for and against a rent freeze",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95OVV2amZHSWFuOUktYnZNRFdZekVwWkhhMzNYWW5NbG1YNV9nWmlHOWJqMFp1R2VNenAyUUMxbjAzWENhUzk5ZlN3LWI3dzU2dTRCQnE4NVpwUDRsTVFzSW5pbGYwTktxQ0VrTEhRSW13cVpxRzByUE83VDY?oc=5",
+      "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "source": "amNewYork",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95OVV2amZHSWFuOUktYnZNRFdZekVwWkhhMzNYWW5NbG1YNV9nWmlHOWJqMFp1R2VNenAyUUMxbjAzWENhUzk5ZlN3LWI3dzU2dTRCQnE4NVpwUDRsTVFzSW5pbGYwTktxQ0VrTEh",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "What Mamdani’s first 100 days have meant for real estate",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMms5TTMzX2VkOWRORUhGTkdTZkJwNlBwWDlybm1wZU12alVzQnU4Ym9uSHAtbm5Ka0VoLVBNTGdLV0M4MURyWGpVblpxeFpMS2ZKYU41cmJNNjVOYnlONHEtTDNSM0VBRllNaEgzOEt3eTNlTnZoOVZvdl9SdmJfYjZXQ3ZtTlUxWDBUOFZtWVNOTVZxTGlFWVpiYTlrbkZJN1JaLQ?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMms5TTMzX2VkOWRORUhGTkdTZkJwNlBwWDlybm1wZU12alVzQnU4Ym9uSHAtbm5Ka0VoLVBNTGdLV0M4MURyWGpVblpxeFpMS2ZKYU41cmJNNjVOYnlONHEtTDNSM0VBRllNaEg",
       "category": "RGB",
       "thumb": ""
     },
@@ -488,12 +515,12 @@
       "thumb": ""
     },
     {
-      "title": "New York Pushes New Tenant‑Screening Rules Requiring Landlords to Reveal When AI Reviews Applications",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbHQ0LXNCc0tOTUMwc01rZzNrSHZndG5qMkJ1a1JpeEpEZklZVlhJTHJyd2xTeU1mY3hLY0NqeFUtTWxRa2g0WFhMaDZ0ckNFeUxSREQ0R0FwRmdpaV9EZjZyS0FTNUc2OGY3SDZqWW5sUDBibjlzbEk3czZ5WkN6WkgxZ1BPMGU1dWkzQ1FyUzZkRGJITHpDc0liazVzZ29MSXl3Skp1SEE0eG0zdndpcjU0cUNDYV9nN0xnN0JBeGNfeVh6NXZfY1ozR1UtbUN0dTdkQlhsVHhacDBmVkFrM0JhdmhnTVo4RWdvempmM09KZENva2Nz?oc=5",
+      "title": "Upper West Side affordable senior housing project breaks ground",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUktfNVF2VFF2Q0t4Z1FPTzZ2SnFFR0VrcjlLaFNyRmF1VjJHWmZkU0ZBTHVJSjZlMDdKVWdDQ2s5Y0s0c1ROVVhVWFJfZkpTVnJ4UENZamRNT2xoVEV1SmNYMjRlT0tTV2ctQzhRbHpPdkd6bXZtOXpZTUpVWGc0VzdKQXItTlZqSGJHV0FOcw?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "source": "savingadvice.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbHQ0LXNCc0tOTUMwc01rZzNrSHZndG5qMkJ1a1JpeEpEZklZVlhJTHJyd2xTeU1mY3hLY0NqeFUtTWxRa2g0WFhMaDZ0ckNFeUxSREQ0R0FwRmdpaV9EZjZyS0FTNUc2OGY3SDZ",
-      "category": "Protected",
+      "source": "6sqft",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUktfNVF2VFF2Q0t4Z1FPTzZ2SnFFR0VrcjlLaFNyRmF1VjJHWmZkU0ZBTHVJSjZlMDdKVWdDQ2s5Y0s0c1ROVVhVWFJfZkpTVnJ4UENZamRNT2xoVEV1SmNYMjRlT0tTV2ctQzh",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -506,12 +533,12 @@
       "thumb": ""
     },
     {
-      "title": "NYC rent board finds landlord earnings rose as it considers Mamdani's rent freeze",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVFrVkpoTFJIdWxteDlDMG9LV0VpM1VnVXFnR3RITDdvcFJTZE0wRHVsd0hzTTN4M200UV8zdHhNV2tmZkdET2t3Q2R3VzRqOFB3a2RzRHcwajZGZEQ1R1d4UWpMcDhhd1pHMUZGMmF2Z09lVm43LS1pSW9aS2ZPOVFIZDd3M3JpVTFkeXVNUWswckViUXYwb2tDNWwwUEkyYzVXQ19PbnNRbmc?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 17:59:47 GMT",
-      "source": "Gothamist",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVFrVkpoTFJIdWxteDlDMG9LV0VpM1VnVXFnR3RITDdvcFJTZE0wRHVsd0hzTTN4M200UV8zdHhNV2tmZkdET2t3Q2R3VzRqOFB3a2RzRHcwajZGZEQ1R1d4UWpMcDhhd1pHMUZ",
-      "category": "RGB",
+      "title": "New Trump Housing Rule Puts Local Immigrants, Advocates on Edge",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2VmNkdRVElQSlh3QUw3NlpFclpJTzBPdHFSRkhpbnFwSVhaTXZIY0Z3T1dYVGxyT203WVRVa29LZjFVZ01lSHhnMFA0U29kWmlmaGxiR0hxMkJxbWlJUW1BWmJTMzdQUUJOeDBwaXg2SmRCTFpIYXZ3cE5tMFZGOXdlRUhNMzFod0dPTw?oc=5",
+      "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "source": "The Frisc",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2VmNkdRVElQSlh3QUw3NlpFclpJTzBPdHFSRkhpbnFwSVhaTXZIY0Z3T1dYVGxyT203WVRVa29LZjFVZ01lSHhnMFA0U29kWmlmaGxiR0hxMkJxbWlJUW1BWmJTMzdQUUJOeDB",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -542,15 +569,6 @@
       "thumb": ""
     },
     {
-      "title": "Landlord Income Up 6% Key Report Says as Board Weighs Rent Freeze in Earnest - THE CITY",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd09iazJ5dWhDZnBpRjB6dzBUX2NIOW1aX1VQQlJ2UDNsZWpKWmFYV1poREdwcXBZd1lRSEpPcXpEMVpNM0RkZkxDU2h4VkhqS05ESHpWWmZPN21JWFM1bHdvQXFqdEtMTmFxQkZUb0l4NlZlU3lBWjRIRkhNVVZpOG1jWQ?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "source": "THE CITY - NYC News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPd09iazJ5dWhDZnBpRjB6dzBUX2NIOW1aX1VQQlJ2UDNsZWpKWmFYV1poREdwcXBZd1lRSEpPcXpEMVpNM0RkZkxDU2h4VkhqS05ESHpWWmZPN21JWFM1bHdvQXFqdEtMTmFxQkZ",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "Mayor Mamdani's rent guidelines board holds first meeting",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmFuWVdzSm10eVg0UlNNclhrOGFHbnM2OUJvNks1NUY3MXN1M0x1RWZLMkc3em04OHB2M0pvbGNIWVVJdkc5dmNXSVAyc3lsMWpBY2NwbzF1eTJmOU9YLW5wNmQySUlmdXp0bFg0V196a1hqY29YX1MybU5Rem1wY2I5aTFGTEMwRzFIWTlab0NaVDlU0gGaAUFVX3lxTE81S1hwbWJaaDBzbnNUdkg0bkdscUQxNkRsV0J1dlgzSThaNUg5M1E5T2xDUUp3MUUxNGdCV1RJOEhGdDdteU5pdUliTGNqVnh4Sk5fdEJ0bUlMRjlHOUF1bE5XSFJEUVBlXzB5SDVITURCbHRUc05JV21kY3B2STdJQ0JXanpMTUpveW50S3Y2eUhobjhpZGVacGc?oc=5",
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -569,11 +587,11 @@
       "thumb": ""
     },
     {
-      "title": "Nearly 10% of rent-stabilized NYC buildings are run down — as new Mamdani board set to pass freeze",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWoyU1d6bGw5OVJET0U1MTA4V2tSYWRoOG5kaFhGdEVCT0g4U2dmUGhxTFVzdzNRSzBuZ2tZTUtSendaX3pXRVBjR0tlalQ0NF9ZRDJrcUktakJ1bWtRdUo4Q2dlT2RtTVo3dm85cTVnLXUwbHdSLVpnd085VjZhR083MzBRS0xvRGs1UHUxVUFFUGlsczRua2NmRVo3OExjSFpHa0RZVkl6QmQyU1ltZkVGc195dkNISkljT2NwRmkxZlE3Tk5WMGNmaS0zUjg?oc=5",
+      "title": "Rent Guidelines Board says buildings’ net income climbed by 6%",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcENfMFNIeWV1NDU3cTZzdlJZV3ZxaXNRYlFrV2VsUWVuUlBuVjJRNXRKbGcwU1E1SlZOQldPNFQxbTlzVUN6dHExTGpFSWUyWGpZNmtkcmZfMlhIdmJEX29tNkdJaGcwUE9xWVZmNzlYZndpQ0Zxb2JMXzB1RVRyeHMtWGRsc19KTHhidXExNzBfT2pLeWF2ejVpcmdOLWtIUWstbFB3?oc=5",
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "source": "New York Post",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWoyU1d6bGw5OVJET0U1MTA4V2tSYWRoOG5kaFhGdEVCT0g4U2dmUGhxTFVzdzNRSzBuZ2tZTUtSendaX3pXRVBjR0tlalQ0NF9ZRDJrcUktakJ1bWtRdUo4Q2dlT2RtTVo3dm8",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcENfMFNIeWV1NDU3cTZzdlJZV3ZxaXNRYlFrV2VsUWVuUlBuVjJRNXRKbGcwU1E1SlZOQldPNFQxbTlzVUN6dHExTGpFSWUyWGpZNmtkcmZfMlhIdmJEX29tNkdJaGcwUE9xWVZ",
       "category": "RGB",
       "thumb": ""
     },
@@ -641,15 +659,6 @@
       "thumb": ""
     },
     {
-      "title": "Law prohibiting landlords from discriminating tenants based on income is unconstitutional, court finds",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZ2NGtKZndGanA2WDZXMFJkQTRDem1uZUJJeHZOYW1IZklUOTZWT1dvbm8xQjZRQ1NVYUFKeXBHMkpGVlhGQ2haZTh2Vlhoa3FkVFJlaE9LcEhvYXZoSGlnNml3UUVPZ1l5bGZKMmVkLXo2Wk5XRy1iTi1Bal82am9DYV8?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "source": "amNewYork",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZ2NGtKZndGanA2WDZXMFJkQTRDem1uZUJJeHZOYW1IZklUOTZWT1dvbm8xQjZRQ1NVYUFKeXBHMkpGVlhGQ2haZTh2Vlhoa3FkVFJlaE9LcEhvYXZoSGlnNml3UUVPZ1l5bGZ",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
       "title": "Opinion: Expand NY’s Housing Access Voucher Program",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzVW1FV1RMcTdEV0pxR2l1SDFzdHBYbjBtU1ZXOVBGWmtCdWJCZEJfTmlvOWdiTlhJNGI4Sk41T3JsUXVSbE1uNHl2UXl0UGZpbWIwOS12MUJ4NGF1b3B4UFR5RlpBcHpqaXNZMXpzYlpRVmlUWnpHZXNGaFNjQQ?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
@@ -659,12 +668,12 @@
       "thumb": ""
     },
     {
-      "title": "LISTEN: Who’s Buying Rent-Stabilized Buildings?",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXB1ZGJ2bmx4UHRrbHZLaUtqeFMwVlZmSlhYU0xCQUlEMENUdGE4TjNhNG5QMEVPVnp1MmVES1RoLURKNGQxamVqZlpUM3JYYVpXNk5jdGpYYmpGQXhTdkFyeC0xamV3Q1Y5ejhWN0ZTdE9ZdHhxRURiZ0lrb1NORmNIVzRoZTA5bjA3d0dXeE5adzg?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "source": "The Real Deal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXB1ZGJ2bmx4UHRrbHZLaUtqeFMwVlZmSlhYU0xCQUlEMENUdGE4TjNhNG5QMEVPVnp1MmVES1RoLURKNGQxamVqZlpUM3JYYVpXNk5jdGpYYmpGQXhTdkFyeC0xamV3Q1Y5ejh",
-      "category": "RGB",
+      "title": "Law prohibiting landlords from discriminating tenants based on income is unconstitutional, court finds",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZ2NGtKZndGanA2WDZXMFJkQTRDem1uZUJJeHZOYW1IZklUOTZWT1dvbm8xQjZRQ1NVYUFKeXBHMkpGVlhGQ2haZTh2Vlhoa3FkVFJlaE9LcEhvYXZoSGlnNml3UUVPZ1l5bGZKMmVkLXo2Wk5XRy1iTi1Bal82am9DYV8?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "source": "amNewYork",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZ2NGtKZndGanA2WDZXMFJkQTRDem1uZUJJeHZOYW1IZklUOTZWT1dvbm8xQjZRQ1NVYUFKeXBHMkpGVlhGQ2haZTh2Vlhoa3FkVFJlaE9LcEhvYXZoSGlnNml3UUVPZ1l5bGZ",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -722,21 +731,30 @@
       "thumb": ""
     },
     {
+      "title": "The Daily Dirt: Applying “tax the rich” to rent stabilization",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzZ1Z2NtWmp5V3RPbEJQWGFQc3htV2l0eWRQODNiTFJaYTg4ZjdHTWplQVJicmE5YUxpTTI1OVpMN3g5c1E1LU1uWjJTRTBlVDJTcW93OENhcDJQaUpIVW9mbkRacVB5ejhZMUJTNDY5QW9rbVlJOVlCVm1INUNaZUtMQjRHWC1pYl9NdVFQb3lJNzRjYmw3ZmpvT3hZMmFsUkE?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzZ1Z2NtWmp5V3RPbEJQWGFQc3htV2l0eWRQODNiTFJaYTg4ZjdHTWplQVJicmE5YUxpTTI1OVpMN3g5c1E1LU1uWjJTRTBlVDJTcW93OENhcDJQaUpIVW9mbkRacVB5ejhZMUJ",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "‘This is Everybody’s Fight’: Residents Urge Pushback on Public Housing Proposal to Verify Citizenship",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5RWFo5SVNRUmNLMDhfYzJYcWlKcjlKQXJES05UZmZaT0oySG5iejBOM3pwLU1SNllFMlNsenYwNkw5RWpkZEJKNjV2WVBKNWtJbEM2b2xvWmJqRE9ORHVtbW5oSzJTU3B0aVJ3d0FNdUF2Vld4M2RlOGh4aExOcUFOS3NqeW8?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "source": "Documented",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5RWFo5SVNRUmNLMDhfYzJYcWlKcjlKQXJES05UZmZaT0oySG5iejBOM3pwLU1SNllFMlNsenYwNkw5RWpkZEJKNjV2WVBKNWtJbEM2b2xvWmJqRE9ORHVtbW5oSzJTU3B0aVJ",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "A ban on income discrimination was overturned. What protections remain for renters who use housing vouchers?",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFqbmRicW9GUWxiWlluSy1oOVpJNkdvelJUQXJSbDVSQ2I5a3RUdGVnUE41Y3UwenhMQjRtNTIxeEZnZ09yMnM4VE5LbmIxdUtYOHQ4WUtQb1FsclVNUHJyemZEV3lRc0R2d0RDakZ0NUYzbnZscF9yYTRlS1dQN3A3RjUxb3JYZC1PSjNoazZyODZpOG9IYjRuOVlDbkQ4UkxxUl9lQWxpUnJfeXFJOFFSaGFmQmdFSlQ4dGVjc2Y5UQ?oc=5",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "source": "Brick Underground",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFqbmRicW9GUWxiWlluSy1oOVpJNkdvelJUQXJSbDVSQ2I5a3RUdGVnUE41Y3UwenhMQjRtNTIxeEZnZ09yMnM4VE5LbmIxdUtYOHQ4WUtQb1FsclVNUHJyemZEV3lRc0R2d0R",
       "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "As Mamdani Moves Toward a Rent Freeze, New York’s Stabilized Building Owners Sweat",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSW5XYjNNWExuRUhadmpITFIxczRYVENYUHM2Ylp3OG9oSGVxSHhIMTBBT2tabFRUQUhUVkJ4VzFYNnhpMFJjNkdSNzVQcmJZY205UGZEQVRLVlZpUWVJSmdlWi1UQ08xZTFkUDE5Y2MtYk9fRnFvREdLckpkbkd5MVBEZ0huN3RlNnJJ?oc=5",
-      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "source": "Commercial Observer",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSW5XYjNNWExuRUhadmpITFIxczRYVENYUHM2Ylp3OG9oSGVxSHhIMTBBT2tabFRUQUhUVkJ4VzFYNnhpMFJjNkdSNzVQcmJZY205UGZEQVRLVlZpUWVJSmdlWi1UQ08xZTFkUDE",
-      "category": "RGB",
       "thumb": ""
     },
     {
@@ -857,6 +875,15 @@
       "thumb": ""
     },
     {
+      "title": "Rent control: The governor says no. Boston’s mayor says yes. It could be up to voters.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONnF5amNqd2JPREZKenAwRThjSmJFUUVGdXM5VHNZMDkyMjZ3Z1FKSUY4c2NSY2xCUVRweXk4aTk1NDBhQnVqTTRJWHR0b0VDdTJnZ2lYYzNSUFFPcVNaVEs3eFVaYXh3VFozSmNqTlNYdF9ndzM3T3pESTdCbUNBRGU0N2JLTl9PcTM5NjdvM3hwWS1vM2pLWlJldUJ4X2w2X3Z5d3J4U3lRNWV2ckxZZk9TMkxGXzluTllvUWUzMEduQ1Mw?oc=5",
+      "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "source": "WGBH",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONnF5amNqd2JPREZKenAwRThjSmJFUUVGdXM5VHNZMDkyMjZ3Z1FKSUY4c2NSY2xCUVRweXk4aTk1NDBhQnVqTTRJWHR0b0VDdTJnZ2lYYzNSUFFPcVNaVEs3eFVaYXh3VFozSmN",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "HUD proposes time limits and work requirements for rental aid",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2txVndxVHoxOVNUb1drZU9KdWFGZC1XWU5ZTkcxZFR4LXFFME9ycDZoYTR6MnF6SnNKSDZvTDFzT3Q5cVotb2N5WGMwbW0zQWM5bkRXbkxHa3VIdEZ2b0djR2s2b2p1MGVJMElqS0EyNmJzbVg3VzZqZnFVVHNxUDlkRzlGOUw3c0ZNamdLSFV1U29GS19GbWV4REJQWFVIMWRQSQ?oc=5",
       "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
@@ -872,6 +899,15 @@
       "source": "New York Post",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1VJZlhkM0E4WU1ndXZuMHJreERMaTlZWHliOXBKbV81eFZCUnZqUUlPalpldF8yLUFMLUR3bHZJMGItdE41OXlzd2k3Y2pvdXpUSlJUb0QyT0RGZVl2RVRBaWNHMEt3NlN2UVc",
       "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "Rockland County To Open Section 8 Housing Lottery From March 16–27",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVBwakZNUGhUV3RYRy1hRkZyZVV3MEtYQkRrd2hvekJ6VlhveGFOYnlCV0x6UjZUMGV6TzhlTUxjYUYtN1pUR1JQRGYtUWxxcDRuY1JFcUFmZ0V1LUZOb0JPTllyQnNFdC1iU0tDbV9EOWJ4LVl4VGlJUkN2WExJUkNWSG11dkRWcEkzbElZYjFaREJMSFE?oc=5",
+      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "source": "Monsey Scoop",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVBwakZNUGhUV3RYRy1hRkZyZVV3MEtYQkRrd2hvekJ6VlhveGFOYnlCV0x6UjZUMGV6TzhlTUxjYUYtN1pUR1JQRGYtUWxxcDRuY1JFcUFmZ0V1LUZOb0JPTllyQnNFdC1iU0t",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -974,12 +1010,21 @@
       "thumb": ""
     },
     {
-      "title": "What to do about illegal subletters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1FVVTlVekdzVzNvRXQ3dUlaVkF2QW5Vb1UwQkhIU05PbUlYOUZDOEtLaGh6R0VRbGNvaUhhMnEzM1lFM0I5NVhkVUtQalVzWWZ4aXhTZHlIektLWVV0NHp0VTQwTmN4eVJnN3Z2dFhMU3BsaVNVQU5kM1RkZVNVZkVlYU05X052TUtDZ3lnekp1MkIzZjVTT2pqcG41NVU3OWJFRQ?oc=5",
+      "title": "Key Vote in Manhattan: Stay in Traditional Public Housing, or Try a New Path - THE CITY",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWxhSW9fZFBDeE5tSkFpTmZWd3FqTGw0U1VFWVF0RDRFSm1VMTVyeFdSU0lXWHJVN2lCcHYyWWdQNGxMLTlsTjVjc0RqT3VfZmhtcWREZGd0RzRzOVpVM1ctcEZ2c2d5dVhjY2M1SlF2SUZUNkdpV3FzTGE5WHVSNzN4dTNTaVF3d1BTQg?oc=5",
       "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "source": "The Real Deal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1FVVTlVekdzVzNvRXQ3dUlaVkF2QW5Vb1UwQkhIU05PbUlYOUZDOEtLaGh6R0VRbGNvaUhhMnEzM1lFM0I5NVhkVUtQalVzWWZ4aXhTZHlIektLWVV0NHp0VTQwTmN4eVJnN3Z",
-      "category": "RGB",
+      "source": "THE CITY - NYC News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWxhSW9fZFBDeE5tSkFpTmZWd3FqTGw0U1VFWVF0RDRFSm1VMTVyeFdSU0lXWHJVN2lCcHYyWWdQNGxMLTlsTjVjc0RqT3VfZmhtcWREZGd0RzRzOVpVM1ctcEZ2c2d5dVhjY2M",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "HUD Revives First-Term Trump Proposal to Eject Undocumented Immigrants from Public Housing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDdJWGZONkxhZlNnODQ0ODNsVno1VW9NYk9FRFV5dkFuVHdQNV9ublpoMndJNTBqYVM2MlBOMWZvYjNaaWxXUTk2QWh3bE8wTDNyckRIb0Mzb2ZyVkgyazYteE8waVdnWEJMbzRkMEQxS01LTnc0VXhWQzh5R3h1Q05NbmFnZkk?oc=5",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "source": "The New York Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDdJWGZONkxhZlNnODQ0ODNsVno1VW9NYk9FRFV5dkFuVHdQNV9ublpoMndJNTBqYVM2MlBOMWZvYjNaaWxXUTk2QWh3bE8wTDNyckRIb0Mzb2ZyVkgyazYteE8waVdnWEJMbzR",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -992,11 +1037,11 @@
       "thumb": ""
     },
     {
-      "title": "NYC rent freeze likely: Mamdani announces six appointees to Rent Guidelines Board",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekNoRS1KRHl0cncxNFRxcE4tTm1YUlJXWF8xVmZaNVJjT0JNM0FXOXBmcDBPWWl5UTdVbXNTb3l0ZnduMVY2X0NFYms3MVpuY3dYeTVTNEhtUkp1QWpfaHNMV0VmSUtRYmQxME1XX2dnOU8wbnMxZUFEbndneThuejF5cTY4dmREaTVyZHZXTQ?oc=5",
+      "title": "Mamdani makes six appointments to Rent Guidelines Board",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHh3VEpUSkJJV0FrS1owbWhCcGVVaXhUVzNtS05iQjFZOTd6SUtGRWFGTDhxek1hdG03ZlQzNFhpeFFrS3d5ZFkxbm1qYmhYZFZ0b2NQa1ZlVGgyWFNCYlRRd1hrZG5iM3dvLVBOT0VUSTBVMFJqajZyanM3dDduVU1uNk5uVnFFOUxZNkF1NE5qRlZjaHo1NU5nSjRHaVMtYXRYVHhkMA?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "source": "6sqft",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQekNoRS1KRHl0cncxNFRxcE4tTm1YUlJXWF8xVmZaNVJjT0JNM0FXOXBmcDBPWWl5UTdVbXNTb3l0ZnduMVY2X0NFYms3MVpuY3dYeTVTNEhtUkp1QWpfaHNMV0VmSUtRYmQxME1",
+      "source": "Spectrum News NY1",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHh3VEpUSkJJV0FrS1owbWhCcGVVaXhUVzNtS05iQjFZOTd6SUtGRWFGTDhxek1hdG03ZlQzNFhpeFFrS3d5ZFkxbm1qYmhYZFZ0b2NQa1ZlVGgyWFNCYlRRd1hrZG5iM3dvLVB",
       "category": "RGB",
       "thumb": ""
     },
@@ -1006,15 +1051,6 @@
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
       "source": "New York Post",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2ZLaXRoM1k1S25rYzRsM085YkktNjhFclpyZ25HMDVnT3c3Mk9jaExnWUg2ZmF1ajZ5RU0tVFJ6R0xwYU1pMVdxTE16c091a1ZHZHVldTlWZFllOXR0MzF2cEFVV1loMWhIdjR",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Mamdani appoints new rent guidelines board majority, setting stage for promised rent freeze",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pd19kd1NRdXhVMDJmVF9zcGV0ZTFHZE9EdXVxSWxJdDg2bW8xeVgtZ3Z4TklNdW1jbnlGZEszZlhUeUo2cU43NGpocVEyUlFnczJONEdaUVRTRDdEWXBsRzM2cGE2cVEwZTFqTks2LXUtYUNJOG5r?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "source": "amNewYork",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5pd19kd1NRdXhVMDJmVF9zcGV0ZTFHZE9EdXVxSWxJdDg2bW8xeVgtZ3Z4TklNdW1jbnlGZEszZlhUeUo2cU43NGpocVEyUlFnczJONEdaUVRTRDdEWXBsRzM2cGE2cVEwZTFqTks",
       "category": "RGB",
       "thumb": ""
     },
@@ -1100,6 +1136,15 @@
       "thumb": ""
     },
     {
+      "title": "After the Rent Freeze",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ndDdaVk9PRDhNREhacW40RDFuQVlIUDB0aVFSRFJQQ3pHOVVHWnNqNnI3UW9JS0U5LXdFeGM0WHRRamJ0QWY0amNHWHEwcTFCb0lyaGhlZ0VSN1lrdGNFSUgySHJob2h3ckFnQ0ZLM1k?oc=5",
+      "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "source": "Phenomenal World",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ndDdaVk9PRDhNREhacW40RDFuQVlIUDB0aVFSRFJQQ3pHOVVHWnNqNnI3UW9JS0U5LXdFeGM0WHRRamJ0QWY0amNHWHEwcTFCb0lyaGhlZ0VSN1lrdGNFSUgySHJob2h3ckFnQ0Z",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "Landlord Accused of Offering Rent-Stabilized Apartments as Hotel Rooms",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3dnaWF5eWJPM0pOc3RkdjJUeTMxbktJdjBIVEFWQnc0NnUzWVNjUEQyNGJZZjhldzVWTFAxNmgtTVdzT0I4Z2twd2laRDBwQnRBUjlJUlVycEZFeG1rdWhpLXZubnk1alh1by0wN2E3ckxoT01lazRadjkyMWU5YkFLQU1naUViTWFjbkF4UjlzOU9udm1GMlpDRVFhY0xDOTk4Wk54VVJHZzUzOV9GR1NDQ0ZYSjFOQU9z?oc=5",
       "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
@@ -1123,6 +1168,15 @@
       "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
       "source": "Business Insider",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVFkTW1FSVBPSE5ienIwSFBhQ1NUdnlrWlNMRlhjZXdIbjBSb1B6RnRWRWpJUlpnODlDREpJLWIzWE9yR1pXS00wMi1HWUFkUnpTSnIyQk52bjV4bjdGSC1jWkNrd0c5bGtTNUR",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "NYC’s small landlords say they won’t survive Mamdani plan to freeze rent",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWJrQlVOTmZUOEZaS0tBM3czV1JwZzhpdDhTNFJHZHdnMG1aMURqRVF5Wm54d19QajdfeE5neWktcDVsRWRxeXpGTUVTUGhZU1QxaFMxQWhIZENyeVdDSVRkRjlFeUJlNW1lRDVfYk55UHVNRUJjeWRUODAyQXlSZkMtN0VROGpFUDl3T25pdnA?oc=5",
+      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "source": "The Washington Post",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxObWJrQlVOTmZUOEZaS0tBM3czV1JwZzhpdDhTNFJHZHdnMG1aMURqRVF5Wm54d19QajdfeE5neWktcDVsRWRxeXpGTUVTUGhZU1QxaFMxQWhIZENyeVdDSVRkRjlFeUJlNW1lRDV",
       "category": "RGB",
       "thumb": ""
     },
@@ -1151,6 +1205,15 @@
       "source": "Realtor.com",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tZkY1VVVmUk9wYV9RWkVnVzN6VTJFdWFaeUVfTWoySHVaTEJ0WTBmamJRM2szeTJOYTl5d3EwUDdNS3E4OWJudEZsS0p5cE91bDc1X1dYU20?oc=5\" target=\"_blank\"&gt;Ne",
       "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "Local housing programs face instability as changes to federal homelessness funding are paused",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW5JNDhodi1JS1RiVEk5cUNnSXNkVXFSUkhHd3NwTnZZaTNKcGhSS1RFWlcyc0dIU2pfZU51QUpJb0luTG1ueGhoU3lnMUV2YXBrN2w1U0ljSFBEcjdhckFWdGU3OWdrVW9NRTYxbThia2Jqb0xnV3lwLWhZNklob1Bncm5Wa1lxbWZTcFpGVDE4dDBfYlBB?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "source": "Street Sense Media",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW5JNDhodi1JS1RiVEk5cUNnSXNkVXFSUkhHd3NwTnZZaTNKcGhSS1RFWlcyc0dIU2pfZU51QUpJb0luTG1ueGhoU3lnMUV2YXBrN2w1U0ljSFBEcjdhckFWdGU3OWdrVW9NRTY",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -1316,11 +1379,11 @@
       "thumb": ""
     },
     {
-      "title": "NYCHA ‘far surpasses’ NYC’s worst landlords: public advocate",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1U3SHdUT3FILVRsUXg0ZFhLZTgyWWNXaHFYcWNyQzhHeE1ENXpzYXVXeDBtRzJDSTU2ejV2c1podk01bmZsT0RuVmxSQWtsU24yQXpLbGdZc01Dc29ia3RyLTZzeTNoWDFyMWpnWGNXV3JDejRBd3VMMTlYM3ZFM0Q1U3hzT3fSAYwBQVVfeXFMUGpHLTN3SUJtTkZEY0lZRU55em9adlpGa3BWdkdTd0pUS01YR2NidTlYdUNDQkJNU0EtSEtQc1hHYjlJRGE4c1JJYVJFYVZGMmUxa1A3QnN1a2RFNEhodGNiRUF2aWhWS281SnFCeHlYWUhjQWRhUzB2VmtSZjFaRFAwZVhpa2dVSE0wbUI?oc=5",
+      "title": "NYC Public Advocate Jumaane Williams releases 2025 'Worst Landlord List'",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFhPVTdXSldVMWJuRW9CRUtNRDF1NTY4ajMyck5tTmMwTnZ6SG04dDJCWk8wbko0UTJYS1B2VnlvZ2pQb2FONVNudExzVzRUUHZ1ZElkLWFkVzJzbkJHa0dqclZiSndaX2xQNGdwS1NOYWVhS1lfMVJfck1HSVlDYjNDTWozQ3dZUGRrdks2VGJhczd2ZmpNUTlsd2NfQ0k4QWE0MEdaZzE4REVRakE?oc=5",
       "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "source": "PIX11",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1U3SHdUT3FILVRsUXg0ZFhLZTgyWWNXaHFYcWNyQzhHeE1ENXpzYXVXeDBtRzJDSTU2ejV2c1podk01bmZsT0RuVmxSQWtsU24yQXpLbGdZc01Dc29ia3RyLTZzeTNoWDFyMWp",
+      "source": "News12 | Brooklyn",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONFhPVTdXSldVMWJuRW9CRUtNRDF1NTY4ajMyck5tTmMwTnZ6SG04dDJCWk8wbko0UTJYS1B2VnlvZ2pQb2FONVNudExzVzRUUHZ1ZElkLWFkVzJzbkJHa0dqclZiSndaX2xQNGd",
       "category": "Bad Landlord",
       "thumb": ""
     },
@@ -1330,15 +1393,6 @@
       "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
       "source": "Office of the New York City Public Advocate (.gov)",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTB2QTh0bXRCM0tpZ3dXUGtBLWc4M0wzQzlJTFlMRzZxVE1renRVTnJMRnYtNzJwY0I2R3V4RVBtRGlwcEZEQlhGLWYtWjFrNEk1SWpWQU5HdDViMFFSTVY1dDlRQWI0bmlORVR",
-      "category": "Bad Landlord",
-      "thumb": ""
-    },
-    {
-      "title": "NYC Public Advocate Jumaane Williams releases 2025 'Worst Landlord List'",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFhPVTdXSldVMWJuRW9CRUtNRDF1NTY4ajMyck5tTmMwTnZ6SG04dDJCWk8wbko0UTJYS1B2VnlvZ2pQb2FONVNudExzVzRUUHZ1ZElkLWFkVzJzbkJHa0dqclZiSndaX2xQNGdwS1NOYWVhS1lfMVJfck1HSVlDYjNDTWozQ3dZUGRrdks2VGJhczd2ZmpNUTlsd2NfQ0k4QWE0MEdaZzE4REVRakE?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "source": "News12 | Brooklyn",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONFhPVTdXSldVMWJuRW9CRUtNRDF1NTY4ajMyck5tTmMwTnZ6SG04dDJCWk8wbko0UTJYS1B2VnlvZ2pQb2FONVNudExzVzRUUHZ1ZElkLWFkVzJzbkJHa0dqclZiSndaX2xQNGd",
       "category": "Bad Landlord",
       "thumb": ""
     },
@@ -1424,6 +1478,15 @@
       "thumb": ""
     },
     {
+      "title": "Judge approves controversial sale of NYC rent-stabilized apartments over Mamdani's objections",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXppUXBMREphaWJWWmRCbkVVNkhUMGZrYnBYenJtNi1MNDBMdjVEdXBVd2JWS19HR1pXWTJhWUxmZmRJOVRuaC1TMlRSakV1cTVadmdQLUxxSVpyQ3lsMTlRNkxkUEVDTkF0QlFoNnp4UWlQZHg2ZkxZX2N4ZGR4V21jcW4xeldvVDBNRXNodHlvbXRyQWlmMHBkVWdTSkRhZDJZWlNQM1RjTE1LUHNaendoZlc?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "source": "Gothamist",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXppUXBMREphaWJWWmRCbkVVNkhUMGZrYnBYenJtNi1MNDBMdjVEdXBVd2JWS19HR1pXWTJhWUxmZmRJOVRuaC1TMlRSakV1cTVadmdQLUxxSVpyQ3lsMTlRNkxkUEVDTkF0QlF",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "Landlords say expanding rent control threatens housing",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWS1Vc1Nuc1ZuZEQxT2E5U3VObDBTb2xJMUNLVW5xQjh4a1RJSWZXWGh4T2lqSEFGak9LcHdSTWltQmRtWmdXZ2piaTJwNGNSTDdFOFYydWJvcnF0c2F0Q3J0OThOZEp4Uml0ekRjSk9DMnlkakRtOV91VXZPLVU2eXgyRDFuaHktLTZIMmZvRllpNHQ1RVE?oc=5",
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
@@ -1442,21 +1505,12 @@
       "thumb": ""
     },
     {
-      "title": "101-year-old tenant reveals how apartment super allegedly conned him out of $350K: 'Thought I was going to die'",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXpZTnhtaUhhaEpSSDhHX1FCd2t4U3hOZ0ZqOXdzemxBM1N1OTZja1RIQXJnb0dRaGhmSjZvMUREVHlOVzlWazRodjV3YUJXQ1ZiQlUyQnJiRDRSM2p1MXJmcWZ2c2g0Z25FYmN5dHptd1VocUNKdTNpUXBSWElXZzMybHphQ2dDcXRXWFd5elFZeVpMaEZuOERHR2xaXzdqQmMwQXhTVGp1bUFFYVd5dV9QMGVMaHBwWk1tN1pXOGZ2cXQydXc1Rjk2cUdLVVJUX0E?oc=5",
+      "title": "Affordable housing lottery offers NYC apartments for under $725",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalJNcVp5X080R0drQkM5NVhlZEEyekx4dU51bkJqM21WYkJXNGE5LVJ6XzdFam1XZXFxODRjWlJCTFBKNndZbHdVVG4wcHM2YVV3TGd1a3VERFI3OFJLTUNQYXNQUU40c2ozaHhBOVFaMUxmcDhpT2ZhNXI3RUJwZTR1Mk1FQUd5eEUyTlEwMENjczF0Wi1HbS1DTjhsQdIBowFBVV95cUxNblhRVzN6bzJ0OHNkcGFnckdQaGhCZGZPWTU0VjE1RmphV00tdlpoRUxVaE13cDNYN3gwZnM2c3htV2RITDlvX3hfdEVYWWhuMnk1c0szbE04RmJlbzhUY2hsV21oWnFKTnc4ZGpHdkNKMF9MQnlHRll0dU5sX0dEUVJaV0sxZ29aR2JIYWZkRjBXRFZUbThNZ0dtQUQxdjFsb0pJ?oc=5",
       "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "source": "New York Post",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXpZTnhtaUhhaEpSSDhHX1FCd2t4U3hOZ0ZqOXdzemxBM1N1OTZja1RIQXJnb0dRaGhmSjZvMUREVHlOVzlWazRodjV3YUJXQ1ZiQlUyQnJiRDRSM2p1MXJmcWZ2c2g0Z25FYmN",
-      "category": "Protected",
-      "thumb": ""
-    },
-    {
-      "title": "Mamdani Moves on Housing—but Relief Could Still Be 3 Years Away for NYC Renters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFZtcmtac1FlZVRUazJaTUdEYzUzdWJ3SXR2Nm5uNDd3T0pGZW9ZbElud3B6RkllaDNldnBfbE5tN1gxYmN4MmNfVW02Y1JNQ1NUdm1YVGZseElua1ZLUTJNTzVZS2kxaEppVlVfYmd0UVRqVDBwTF83amRCcldwYmgtdw?oc=5",
-      "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "source": "Realtor.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFZtcmtac1FlZVRUazJaTUdEYzUzdWJ3SXR2Nm5uNDd3T0pGZW9ZbElud3B6RkllaDNldnBfbE5tN1gxYmN4MmNfVW02Y1JNQ1NUdm1YVGZseElua1ZLUTJNTzVZS2kxaEppVlV",
-      "category": "RGB",
+      "source": "PIX11",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNalJNcVp5X080R0drQkM5NVhlZEEyekx4dU51bkJqM21WYkJXNGE5LVJ6XzdFam1XZXFxODRjWlJCTFBKNndZbHdVVG4wcHM2YVV3TGd1a3VERFI3OFJLTUNQYXNQUU40c2ozaHh",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -1559,15 +1613,6 @@
       "thumb": ""
     },
     {
-      "title": "The Rent Is Too Damn High! Time for a Rent Freeze?",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1pHdFJtenNRR0lnaHlLRkV1UXgwN0tJSlgtTkdfMFItMElJR2FqVkVoU0NZTElyLTJDN29fNlppNVZnekF0bHBSOXllbnotU2haU08zN0F0VHZiM21DU01JWU00a2NjMnR5YXNNRWV5RkdIRmFIRlFtMDJRNGt1STJzakFjb3J3TGpyQXgtcnlZX3Eyd0Nucw?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "source": "In These Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1pHdFJtenNRR0lnaHlLRkV1UXgwN0tJSlgtTkdfMFItMElJR2FqVkVoU0NZTElyLTJDN29fNlppNVZnekF0bHBSOXllbnotU2haU08zN0F0VHZiM21DU01JWU00a2NjMnR5YXN",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "Mayor Mamdani Signs EO to Revitalize Mayor’s Office to Protect Tenants and Appoints Cea Weaver as Director",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnFpUnpQNWk0SDJkYnNLbnJjSV9FSmNGWENnd0FRSlRxVUhGMzBWMDlhcU9oX2hWZmpZYkZJUXptS2pDZTZheGwzZDJ2emxYU2RUb0JfZzBaZ3FKMk1CVEVjajRYbExLTFNsMVVVSzdxVURYbmtQclpfY0tXNncxTHB1eHI2VDdnRnZNQ25pUkpGdEpoQlM0SElCVlJwTV9zME91NGVQclFGd3k3cEc4OA?oc=5",
       "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT",
@@ -1622,6 +1667,15 @@
       "thumb": ""
     },
     {
+      "title": "NYC affordable housing lottery offers $0 rent for some: How to get on the waitlist",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXhya29MbDd0OVBZZW5qVGh5UVRkSEh5bHd0QlN2SVFTOVJ6ZVZLcWZrc1l3SUQ2aHFhMmNhU0NGNGpMcXo2RFE5MklTTHQxZEQtck52dC1xTE50b0RBXzdlalByR2VOeGxCQjVwZ1N4aElHcWFKOGVrSDM1bXhBN2xmb0FKQzVwdXE3VlRweE1iaFl5R0hEQVlZMFdYQUFwbE52VFlRaUVtdk1YdkxxdHFzOHYxQdIBuwFBVV95cUxNYXVvX3ZDV0FBNHVCbF9Xd0ZoMFViR0N6dEttNGxpM09VSGphR0ZMcmphR3Z2RXJGRUFOTGFTYV9jenEzLUk1MEFGMG1KTlZsSHJPazdBUHV3M2V5S2hrUjVMc2RrVFZDUWJzNWhfZ2t2MDc4ZDdjQXBjTHNLbmdHcEpFR3hrcW5lb05UZnBYTjFMazBtcUdnQmEyZjJ0RHVNV3FBXy1yLVZ3YVFDazBJb3NJcHIwM0Q1WnQw?oc=5",
+      "pubDate": "Sun, 28 Dec 2025 08:00:00 GMT",
+      "source": "PIX11",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXhya29MbDd0OVBZZW5qVGh5UVRkSEh5bHd0QlN2SVFTOVJ6ZVZLcWZrc1l3SUQ2aHFhMmNhU0NGNGpMcXo2RFE5MklTTHQxZEQtck52dC1xTE50b0RBXzdlalByR2VOeGxCQjV",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "Starting in 2026, NYC’s rent-stabilized apartments will be easier to find",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmF1ZlI1RVB4ZnZvaWpIRllTZFJlNkFnZ3haZDZEZ3I3b0hQLWdLWWpaTW5YaVB2ekhGSkN3RGFwTTRjWlVEWmlicWhKMHpESEh5djF1STBwLWxUQnVsNWdRNUJNRGZraGVoYTJwZVlPR2NMWEtfQjhoOHp4bnJPOFRUM2g5SFp5bXk2ekFtX3BhdURUT25SbU5R?oc=5",
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
@@ -1664,6 +1718,15 @@
       "source": "citylimits.org",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB4SjE4bWdCSVFwZmNRSVAtZ190NzBocTM2SGVvUTQ5S0dGd3JZLUNEWUFsSExXRDRSR3dfcmNjYWxPNlVOd0l5SDdZcmktb1dPc2JWMjVrdTdwZ3ZIbXdHVnRHbGwwWXJlNWJvNU9",
       "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "U.S. Housing Discrimination Complaints Rise as Support Network Thins",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1lXQVo3TWpydXl5aUt5WndJUlZoalRiNHZIcmgteE5MWlh1TmRLclg5RFRRWHlFeloycHpnbGJtTzk4SlRxczNEUEowdDYydzJKQTdiWXhjUDcwT1ZabS1wTVVYQkFJS2c1NHNMUlpPTnJxSUtpT0pLZU1FN1Q1Y3pkS2Q5b3hVVmJoV2xoOGx5SUtsQ0I0?oc=5",
+      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "source": "The New York Times",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1lXQVo3TWpydXl5aUt5WndJUlZoalRiNHZIcmgteE5MWlh1TmRLclg5RFRRWHlFeloycHpnbGJtTzk4SlRxczNEUEowdDYydzJKQTdiWXhjUDcwT1ZabS1wTVVYQkFJS2c1NHN",
+      "category": "Housing",
       "thumb": ""
     },
     {
@@ -1733,71 +1796,8 @@
       "title": "NYC’s Adams Names Four to Rent Board in Challenge to Mamdani",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmVLOVpMZU5ma1RReEpmZElQb08taWMydVFZMndXbFlkZWwxcjF5Z1FsMlBsWWNoQl9rcmVzcFlRckV0UmdzNUhXSXVBTDNQMTZWVmoxODZ3cmp4Y2RvcGFDeXpkNVFfZWNfSjkxaS1UeVUwZlF3YmhzY1RUd0hVbHhXS0dtUzlTRi1tSEtKeU5PWGJDY2tyeE51SGdVUlZwVVg2Q0VybEs1MGtycVVNZw?oc=5",
       "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmVLOVpMZU5ma1RReEpmZElQb08taWMydVFZMndXbFlkZWwxcjF5Z1FsMlBsWWNoQl9rcmVzcFlRckV0UmdzNUhXSXVBTDNQMTZWVmoxODZ3cmp4Y2RvcGFDeXpkNVFfZWNfSjk",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "NYC Mayor Eric Adams moves to prevent Zohran Mamdani's rent freeze",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONU5MUi0yT2wwUlcxN19NMk95SzBkdjk2VU9PRlNsbnhTLU1XUTA1a3RpejBrQ3ljQXhFS1g5Y244b29Qd2tjRExtR010NFBlbW5NYXA3eGRkVWFsdVR3Z2JzcjN2Y0pBdnRfUnphdG5rOWxnaDYyRmdmeEdBWjNRZnBrcDZXWlJQcndLamVVWVIzMkZCRjJjSmJ5ZjhKcHBBeHh3TWpfMFo4Y3pmemc?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "source": "USA Today",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONU5MUi0yT2wwUlcxN19NMk95SzBkdjk2VU9PRlNsbnhTLU1XUTA1a3RpejBrQ3ljQXhFS1g5Y244b29Qd2tjRExtR010NFBlbW5NYXA3eGRkVWFsdVR3Z2JzcjN2Y0pBdnRfUnp",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "pr-20251219",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PbEJRSllJVlpuc25EQWtIZ09NblBVV0o4bW9LMnVwVkNQMVU1emk4Uy1GV1dfWTNXZEswa2FzTVBQWkhrUFZjRVZBZjFoaHVSRzFnYXV4ejBZZmJtRG9RblJQZDU5eU5KLWhJWG51SnRRWVhBaVE?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "source": "NYC.gov",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9PbEJRSllJVlpuc25EQWtIZ09NblBVV0o4bW9LMnVwVkNQMVU1emk4Uy1GV1dfWTNXZEswa2FzTVBQWkhrUFZjRVZBZjFoaHVSRzFnYXV4ejBZZmJtRG9RblJQZDU5eU5KLWhJWG5",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "Housing wallop: City Council passes COPA, other legislative overhauls",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVFvaUtDZjdOWlc5ZTZvcV9ETUxFMEZ1X2pZSnFXRmxIMk9Rek9hcUR5cWt0ZTQ4MTRhX2FYWVpvckctTmxaSC1Nc1U2Mk93TnpYTkJZeGpwZzhZLW1JQ195LXl3UlkxUFN2SmxIN0JCdGxGYVlub1BXUE1TbXVreEpSVzJNRVpvcUhqU0xn?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "The Real Deal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVFvaUtDZjdOWlc5ZTZvcV9ETUxFMEZ1X2pZSnFXRmxIMk9Rek9hcUR5cWt0ZTQ4MTRhX2FYWVpvckctTmxaSC1Nc1U2Mk93TnpYTkJZeGpwZzhZLW1JQ195LXl3UlkxUFN2Smx",
-      "category": "Rights",
-      "thumb": ""
-    },
-    {
-      "title": "Mold, subpar conditions prompt Tacoma apartment building tenants to unionize",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lejUyN1JaNDRrUlJMTC1CV2RSaktnSDNES0UyMmNuQUdXbE5vbWd1SDE4d3dMclRZR05qTWFhU1B5SDVBUkFWQkU5Z3FUaFh1MVhOU0drTXZNR3gwclhnU1dNLXliODU2SlNzazVWMkfSAXBBVV95cUxNOGthbkR0ZE1WUGpEMElZWUlZTHJkN3BwZERfeHlxMTQ0U1lJYnljZjE3VmtVUnVQaGRPbEVDNzNqZDMzeEJSR2JQRU5kU1l5NTFiN3daTUk4dmF2U2stUU1pMFF3OVVOSWh5WE1jSGNY?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Tacoma News Tribune",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9lejUyN1JaNDRrUlJMTC1CV2RSaktnSDNES0UyMmNuQUdXbE5vbWd1SDE4d3dMclRZR05qTWFhU1B5SDVBUkFWQkU5Z3FUaFh1MVhOU0drTXZNR3gwclhnU1dNLXliODU2SlNzazV",
-      "category": "Rights",
-      "thumb": ""
-    },
-    {
-      "title": "Mayor Adams Announces Reappointments and Appointments to Rent Guidelines Board",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGQ4M2pfZGdVM2RweXRXbjZKenNuNnV0V1FqcTBkaF9LdXVVSXRPNXQ2UDkxdzRfMUEyeDdfQTItWTJndXA1QnR4N2s1Q1RtNEh0SHdBcHF0MnlfRjRZbXRXdUdGdFQ3MVAtS2s2cVJoMG50LUJpVE8tb1dsa2tVSVk3elJjSHFoaU4yRm9qT3Zzc0NDQjdQRUs0OE5kUWVtZFJSSGxqUzVaRzU5RWRXMQ?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "NYC.gov",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGQ4M2pfZGdVM2RweXRXbjZKenNuNnV0V1FqcTBkaF9LdXVVSXRPNXQ2UDkxdzRfMUEyeDdfQTItWTJndXA1QnR4N2s1Q1RtNEh0SHdBcHF0MnlfRjRZbXRXdUdGdFQ3MVAtS2s",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Mayor Adams appoints 4 Rent Guidelines Board members in move to stymie Mamdani",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHdRdnFQNVBSTG05ZkM4NDlzU291Y3lGRzhJaDNBT0l3RURMTFFNcWNRQkRpQ2hHWFFBQ1JHLVJjX3Q2aGJQTm9GQnBfZ1Z3VGJuVXFqbXgxQ0NRWkg4UFlyM0FWeEhyZDUwbVdYdlJ0Wl9Zbk9fNlpnVDhoTDRfalRBRno3WTRoelhOM2V1WV9JTHBHcHVtMkNjMWswaDY2UlpMNUdzSVQ?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Gothamist",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHdRdnFQNVBSTG05ZkM4NDlzU291Y3lGRzhJaDNBT0l3RURMTFFNcWNRQkRpQ2hHWFFBQ1JHLVJjX3Q2aGJQTm9GQnBfZ1Z3VGJuVXFqbXgxQ0NRWkg4UFlyM0FWeEhyZDUwbVd",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Mayor Adams appoints four Rent Guidelines Board members as parting punch to Mamdani",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckgwMWlCY1BvOFpzN0VHWXlYYWVPWEMxbVFrZW5SdzVfTVdFZjl1UDVSOEJRakdJQW02UE1KTGtVc3RmdWc1MjZ4T2VzckVFTzBYRzZKdl9YcXN4ZUp5WENDRVd5dkl5dFZPNHVDMkd6aHpoTVh5dXJQeXhnMEFfMm8yU0FMZVNTalpPWi0waWZNMnZqUmhWWG1nQ0JVNUdRX3VCMmg0SVgyQzdvMEdyQkRYTkpPZUE2VGlCbi11Tl8?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "New York Daily News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckgwMWlCY1BvOFpzN0VHWXlYYWVPWEMxbVFrZW5SdzVfTVdFZjl1UDVSOEJRakdJQW02UE1KTGtVc3RmdWc1MjZ4T2VzckVFTzBYRzZKdl9YcXN4ZUp5WENDRVd5dkl5dFZPNHV",
       "category": "RGB",
       "thumb": ""
     }
