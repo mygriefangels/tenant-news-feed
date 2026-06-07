@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T07:54:24.539Z",
+  "updated": "2026-06-07T10:29:03.151Z",
   "main": [
     {
       "title": "New Yorkers weigh in on rent hike freeze proposal at first public hearing",
@@ -43,6 +43,15 @@
       "pubDate": "Thu, 04 Jun 2026 11:00:08 GMT",
       "source": "CNN",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE14SFlQcWNPZkp0TVBZRzA0SFN3WEFaRzRFUnFqWHMzT2FLTC0xQV9oSUdaNTJaSHhieEkxVWZOaFN1YlF3MDdzemdkYllZV2wzUTZxdFlCbGh4M0hOUldOTC11NlEtV1lGblNPMEQ",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "A New York rent freeze is imminent. Bondholders still expect to be paid.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFpCcVI1RHR4WnVwQ1BxT05IYzlNbHNrbjYyZldyYmUxWEt1SWJoczhHR3l0a3F3OXk5MzZnTXpDQlBJWlZndEljZTQ1TUlFTDJQaEN4eVB4MTlBT1YtS0ZBZXVtY2hteXk5RTFWNGd5ZnJXN2VFZlg2eF8yTHZtbUdtZjBOQnR0ZE54UXdtc0NKbGVnMTF6Q2VKZXZoU2dtZ3U1bmhhRQ?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:17:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFpCcVI1RHR4WnVwQ1BxT05IYzlNbHNrbjYyZldyYmUxWEt1SWJoczhHR3l0a3F3OXk5MzZnTXpDQlBJWlZndEljZTQ1TUlFTDJQaEN4eVB4MTlBT1YtS0ZBZXVtY2hteXk5RTF",
       "category": "RGB",
       "thumb": ""
     },
@@ -470,15 +479,6 @@
       "thumb": ""
     },
     {
-      "title": "NYCHA Must Provide Interpreters for Tenants Who Are Deaf or Hard of Hearing, Federal Settlement Says",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzBHd2txT0swU3QyRmdpNzY4Y1VKRTNzZ2JWVU9uR2dVZHQxV2EyQWZfcXdPTWM5RHd3ZUpRRGMzc0VOTm96M0NjZ0NSRzFiLUd1NVBEX0JwRElkY2dpdlg0MTBqOE5GTHlkODJWV0hPUExkSEhsUnFYYXUtT1RubTJxMXFSRlhRQUwyZHR1RWZpb3hGSGFjZ3YyV0NhLWc2T2I4YUhEVVJtQ1ZVSGNFTG5SbFlwS05GRG1PbGp1NEM?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "source": "citylimits.org",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzBHd2txT0swU3QyRmdpNzY4Y1VKRTNzZ2JWVU9uR2dVZHQxV2EyQWZfcXdPTWM5RHd3ZUpRRGMzc0VOTm96M0NjZ0NSRzFiLUd1NVBEX0JwRElkY2dpdlg0MTBqOE5GTHlkODJ",
-      "category": "Protected",
-      "thumb": ""
-    },
-    {
       "title": "NYC wants landlords to ease evictions against formerly homeless NYers",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHlUSWkxWlJweml0djA1V1dLZUppbjlCZlQ3U3Jyc01UX2ZPaG9YMkxkWUxVcUxhRGdiYWVmSGlrWHptRTZiRlQ5NnBLVEJCbkdnMXh2UDVVWi1VbGVrLWxPRWxGSWtJTzl3U1ZULS1LMnVja2NLTjFQZ2psRmhyTmJKTzBpTkVsU0pMY1BKc2FuSG0xTmRNaFRQNGE?oc=5",
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
@@ -638,15 +638,6 @@
       "source": "THE CITY",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUotdTZ4c0dPVWswemRESFhWYThydFhEaWVwODJzazRkckIwQzhQamxvUTJyTHJfdG1vSF9VZFV0MjB6N1YtMFFHN3laRmNwUnBtLXZpZFgtNGF4bTlwQTZzdEpSd0tvYUVuR2V",
       "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Gravesend NYCHA tenants demand ADA-accessible ramps",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXp0bVBteDR0U2NmQS00SVZqdWpvMVVyZUJabUMyY05yMl90SmxIWEVxTUQzbW5FSHE0Qy1mVzV3VXJDTXcxUkZmTGI3NWJFZURFOXROdzBYOGJGUjNLZHJ2SzQ2cmZReFdkSngwOFRqS05WaXBtOG1BRUNnLVNTb2U4SzdyRF9zRjJmZThuM2gxaFlyZVhVZENRYWJKQy1YUWNaUmNTbWZnZGdMSnY0?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "source": "News12 | Bronx",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXp0bVBteDR0U2NmQS00SVZqdWpvMVVyZUJabUMyY05yMl90SmxIWEVxTUQzbW5FSHE0Qy1mVzV3VXJDTXcxUkZmTGI3NWJFZURFOXROdzBYOGJGUjNLZHJ2SzQ2cmZReFdkSng",
-      "category": "Protected",
       "thumb": ""
     },
     {
@@ -1055,20 +1046,20 @@
       "thumb": ""
     },
     {
-      "title": "NYC Wins $2.1M Judgment Against Landlord",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk5nRUxDdHFrMGtDdzJQYXR0ZnNEcGhyankxZkxJam8tcTBhQTVXSFBycktJM3J4MzdKamZBaUczbERaeGNRaTVLSmNuWENLN3AtTC15VjVnVTZqTnJWbEtHQ0I3YVlKQnJud3kzcTdfWUZnd0pFVUFuNlgyaEpOaWFTMGZMb0k?oc=5",
-      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "source": "Patch",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk5nRUxDdHFrMGtDdzJQYXR0ZnNEcGhyankxZkxJam8tcTBhQTVXSFBycktJM3J4MzdKamZBaUczbERaeGNRaTVLSmNuWENLN3AtTC15VjVnVTZqTnJWbEtHQ0I3YVlKQnJud3k",
-      "category": "Bad Landlord",
-      "thumb": ""
-    },
-    {
       "title": "Mayor Mamdani Announces Historic $2.1M Court Judgment Against Bronx Landlord, Requiring Repairs and Financial Penalties",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGR3aHNtdEtQVERlNHBUVjM0aVJnRWF6YUdTQ0FFam5lSzdPTmt3eEd5MXNicnhhTzVJMFBuNDNRSVRTUGl1YnZLUFhNUkk2M3pVRVBwS1JHb0gtT1dRVnIxQUl1dGlxMHl2eWxKc0poLWtzc1lwTWMzbXYyN3NNSVBoZkNOU1Z6M05hSnpRU2wzM3ByVFdrYTc3elVwUmdxV2dSc0lnM3Noclc5Qjk1cg?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
       "source": "NYC.gov",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGR3aHNtdEtQVERlNHBUVjM0aVJnRWF6YUdTQ0FFam5lSzdPTmt3eEd5MXNicnhhTzVJMFBuNDNRSVRTUGl1YnZLUFhNUkk2M3pVRVBwS1JHb0gtT1dRVnIxQUl1dGlxMHl2eWx",
+      "category": "Bad Landlord",
+      "thumb": ""
+    },
+    {
+      "title": "NYC Wins $2.1M Judgment Against Landlord",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk5nRUxDdHFrMGtDdzJQYXR0ZnNEcGhyankxZkxJam8tcTBhQTVXSFBycktJM3J4MzdKamZBaUczbERaeGNRaTVLSmNuWENLN3AtTC15VjVnVTZqTnJWbEtHQ0I3YVlKQnJud3kzcTdfWUZnd0pFVUFuNlgyaEpOaWFTMGZMb0k?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "source": "Patch",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk5nRUxDdHFrMGtDdzJQYXR0ZnNEcGhyankxZkxJam8tcTBhQTVXSFBycktJM3J4MzdKamZBaUczbERaeGNRaTVLSmNuWENLN3AtTC15VjVnVTZqTnJWbEtHQ0I3YVlKQnJud3k",
       "category": "Bad Landlord",
       "thumb": ""
     },
@@ -1415,15 +1406,6 @@
       "thumb": ""
     },
     {
-      "title": "How Can I Tell If the Apartment I Want Is Rent-Stabilized?",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmJWeUZ4WGVVckZQWUJYVXRmMnRVYm1fTmpmWXFLNTVzcm9oT1Rxdk1udlFZelNiSUhQS1N4cnpIeVd1V2pSdUhfcDc0V1E2b095VzNVVjJnck5OWWRpREg5bTNTRXRWNE9NaUVWZUVCRGdDemJFUGh1X0VyV2l0NjFlZUM5azZKUHRGRmpySQ?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "source": "Curbed",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmJWeUZ4WGVVckZQWUJYVXRmMnRVYm1fTmpmWXFLNTVzcm9oT1Rxdk1udlFZelNiSUhQS1N4cnpIeVd1V2pSdUhfcDc0V1E2b095VzNVVjJnck5OWWRpREg5bTNTRXRWNE9NaUV",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "Hochul Wants to Expand Rent Freezes for Senior &amp; Disabled New Yorkers. Can the State Get Them to Sign Up?",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczczMkJlV3M0X0UxX2laNExMQ1VCTDZXb2IyU0I1anVTNy1rTjFpd1RicDJ5d1RHQi1wc0pzM1l5YzRHVUl5RW1pRmt1eEtNNzl5WXhKbVRpUFF6blV6UFA2cmVtVlc0OHF4VnZtUmJDeFhwTEhuVTR4elhkeW1kNk9STS1nWEFZRU1aa0tHS1hPbGRfUkJDdGVUckhOQ0FoRzZtbFJkMWxIRTFnY1ZqcFBsZTF6QVRjUEZSZVR0RWF6TDg?oc=5",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
@@ -1712,20 +1694,20 @@
       "thumb": ""
     },
     {
-      "title": "NYC Public Advocate Unveils Annual Worst Landlord Watchlist: Top Two Have Most Violations In History",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTB2QTh0bXRCM0tpZ3dXUGtBLWc4M0wzQzlJTFlMRzZxVE1renRVTnJMRnYtNzJwY0I2R3V4RVBtRGlwcEZEQlhGLWYtWjFrNEk1SWpWQU5HdDViMFFSTVY1dDlRQWI0bmlORVRIeUlpclBTYl9EUmZCbWZBSHh6SnZ3MGRVNzdjUTJfY1E1VWQ3S05VeGZzaFlHS1FXMTl6VWRhV1llTU1wVmJqZjREUWVaTTd1bUVkcVpHWlZQelRMVG1sN1p1M013?oc=5",
-      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "source": "Office of the New York City Public Advocate (.gov)",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTB2QTh0bXRCM0tpZ3dXUGtBLWc4M0wzQzlJTFlMRzZxVE1renRVTnJMRnYtNzJwY0I2R3V4RVBtRGlwcEZEQlhGLWYtWjFrNEk1SWpWQU5HdDViMFFSTVY1dDlRQWI0bmlORVR",
-      "category": "Bad Landlord",
-      "thumb": ""
-    },
-    {
       "title": "NYC Public Advocate releases 2025 ‘Worst Landlord Watchlist,’ citing nearly 9,000 violations",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa25hQ1RGeG5LLXgxU2lWODdvWmxfUzYwNUI3cmtRWWd4QnBIamxDbDNnWFZaV2NjUlI2bUYyUEdPZVBuX3NqNXBpakRGWklHM2lZSGlYMEd3Q2otNzU3VERYdE9nS1RxTlhQM0ZOTFRYTGdScmNNT0tRbkJrRXAxZ1Rn?oc=5",
       "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
       "source": "Brooklyn Paper",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNa25hQ1RGeG5LLXgxU2lWODdvWmxfUzYwNUI3cmtRWWd4QnBIamxDbDNnWFZaV2NjUlI2bUYyUEdPZVBuX3NqNXBpakRGWklHM2lZSGlYMEd3Q2otNzU3VERYdE9nS1RxTlhQM0Z",
+      "category": "Bad Landlord",
+      "thumb": ""
+    },
+    {
+      "title": "NYC Public Advocate Unveils Annual Worst Landlord Watchlist: Top Two Have Most Violations In History",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTB2QTh0bXRCM0tpZ3dXUGtBLWc4M0wzQzlJTFlMRzZxVE1renRVTnJMRnYtNzJwY0I2R3V4RVBtRGlwcEZEQlhGLWYtWjFrNEk1SWpWQU5HdDViMFFSTVY1dDlRQWI0bmlORVRIeUlpclBTYl9EUmZCbWZBSHh6SnZ3MGRVNzdjUTJfY1E1VWQ3S05VeGZzaFlHS1FXMTl6VWRhV1llTU1wVmJqZjREUWVaTTd1bUVkcVpHWlZQelRMVG1sN1p1M013?oc=5",
+      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "source": "Office of the New York City Public Advocate (.gov)",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTB2QTh0bXRCM0tpZ3dXUGtBLWc4M0wzQzlJTFlMRzZxVE1renRVTnJMRnYtNzJwY0I2R3V4RVBtRGlwcEZEQlhGLWYtWjFrNEk1SWpWQU5HdDViMFFSTVY1dDlRQWI0bmlORVR",
       "category": "Bad Landlord",
       "thumb": ""
     },
@@ -1798,6 +1780,24 @@
       "pubDate": "Sat, 17 Jan 2026 08:00:00 GMT",
       "source": "The New York Times",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWE96QVJFTXljZzk2TldyN0RtcFRETVRFZnFLbEJLM3o1Q2J1NVFTSDNxVE5JWG9LQmRBWWhmV0JpdlNCNXIyX3NhUUdBcnRoWDhVVmhrQnZFeG9UWk5zNWJMSjVBSGo5ajhPXzV",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "Judge considers sale of thousands of rent-stabilized apartments as officials push back",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmpnOUJ0S09Hc2puaUFpNUg0QU9PVUl4Z0FWdlNnREU0a21RVElMVUh2Zzh1dTBvc2NyRUZUNDQ0SmRYQmp2akVtOVBJWEhQU2gzYWozXzRWaGxVcmZrcGtnLVVRVDRYVUVoYk85ZS1rQWFXa3puQ3NZcDNGbWpvWEpmQlFzbngyZmg1TWw5eGxhalUtWjFWRlgySlgxVEJETVlLaTNSN1htWHI4Y0ZvQlh6NjNKbFhRRkl5SEdTaWIwTGZ0elF3QUhKUUIyRzA1R3pxYlVVcw?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "source": "News12 | Bronx",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmpnOUJ0S09Hc2puaUFpNUg0QU9PVUl4Z0FWdlNnREU0a21RVElMVUh2Zzh1dTBvc2NyRUZUNDQ0SmRYQmp2akVtOVBJWEhQU2gzYWozXzRWaGxVcmZrcGtnLVVRVDRYVUVoYk8",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "New Law Requires Landlords To Disclose Rent Stabilized Apartments",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3QzSGZDV09Xejl4Wk9HNmZ6Z1Z3MloyWEgxa0k5SzEzSDNjV2JDekQyNHFrcUxjdFY4TnBHTU9BNGN0cUJxTnc1NDN4MnFQeTFnZFljd05qTmlSSlZwRkt4VkZUODZ3cEdUcWp1a1Jic3hoWHZ6dHo1a3gwN3BYOGh6QkUwWTlNQVMwVHpLbjNsMjBC?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "source": "News12 | Bronx",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3QzSGZDV09Xejl4Wk9HNmZ6Z1Z3MloyWEgxa0k5SzEzSDNjV2JDekQyNHFrcUxjdFY4TnBHTU9BNGN0cUJxTnc1NDN4MnFQeTFnZFljd05qTmlSSlZwRkt4VkZUODZ3cEdUcWp",
       "category": "RGB",
       "thumb": ""
     }
