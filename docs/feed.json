@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T05:30:11.012Z",
+  "updated": "2026-07-15T08:07:25.857Z",
   "main": [
     {
       "title": "Largest Landlord in the U.S. Accused of Widespread Fair Housing Violations",
@@ -932,7 +932,7 @@
       "title": "What updated HUD guidelines say about emotional support animals",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWk82X0htMXdfVTRfcmJ0QUdEal9IZzRwV2NSTkNucjVMN3F0a0QySmpZNWFjYzZOU1BLT2tocXVTQk16Vm51eS1OX0hKbUd3T2dpZEdmR1V6RVJwMXVxRXROdU1yeUxROURmM19YOVhFQQ?oc=5",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "source": "Snopes.com",
+      "source": "Snopes",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9RWk82X0htMXdfVTRfcmJ0QUdEal9IZzRwV2NSTkNucjVMN3F0a0QySmpZNWFjYzZOU1BLT2tocXVTQk16Vm51eS1OX0hKbUd3T2dpZEdmR1V6RVJwMXVxRXROdU1yeUxROURmM19",
       "category": "Protected",
       "thumb": ""
@@ -989,15 +989,6 @@
       "source": "Forbes",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXJmQV9qalJBT0tJdkllRFdkWVIyLVlST25iRW05RHRmWkNSalJlUGd6VFo4dXJyYjhfdWQzWFY1eEdZNWxIYzVQV1JZZDloaUZTVUlvZVZJYnAxcUpkRm1aTVZoWkVfMk05Mng",
       "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "Chauncey to repeal LGBTQ, renter protections, Palestine resolution",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Tm9PYS1rdDhuZ3dlNkJsMU9xLUF6clJBM01QR1ZSVlVyR0puOVhLc1ZxYzItSkhYZ1dTeDRiLXFFUUhRYVJUVWVBRl85SEJWMU81RTQ3YlBta2NSSzR3TDYzYkc?oc=5",
-      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-      "source": "Athens County Independent",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Tm9PYS1rdDhuZ3dlNkJsMU9xLUF6clJBM01QR1ZSVlVyR0puOVhLc1ZxYzItSkhYZ1dTeDRiLXFFUUhRYVJUVWVBRl85SEJWMU81RTQ3YlBta2NSSzR3TDYzYkc?oc=5\" targe",
-      "category": "Protected",
       "thumb": ""
     },
     {
@@ -1799,6 +1790,15 @@
       "source": "Brick Underground",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFqbmRicW9GUWxiWlluSy1oOVpJNkdvelJUQXJSbDVSQ2I5a3RUdGVnUE41Y3UwenhMQjRtNTIxeEZnZ09yMnM4VE5LbmIxdUtYOHQ4WUtQb1FsclVNUHJyemZEV3lRc0R2d0R",
       "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "Mamdani wants to take buildings from bad NYC landlords. This bill could make it happen.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBsTllCWkYtS0NSWmhaMVJLMS1lWDAyTTZGb2tFN1d4ZEIxZ25xLTlkdFB2eEpWVDJxazRfMko2blo1aVVYYnNlVlEwRHBGVVRQc0d1clNhSmdzbzV0b1dtc1J2WW9odFBVbGFFTXZzRzVaYTRJdGFVTlFyb1lvZ2dRWXVobWoxY3NSTzgzRDhmTnEzSWpNMmwya1Y1YlkxMjJ0X3dzcHMzMUZISmlRTkF3?oc=5",
+      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "source": "Gothamist",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBsTllCWkYtS0NSWmhaMVJLMS1lWDAyTTZGb2tFN1d4ZEIxZ25xLTlkdFB2eEpWVDJxazRfMko2blo1aVVYYnNlVlEwRHBGVVRQc0d1clNhSmdzbzV0b1dtc1J2WW9odFBVbGF",
+      "category": "Bad Landlord",
       "thumb": ""
     }
   ],
