@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T02:49:18.226Z",
+  "updated": "2026-08-07T04:53:18.083Z",
   "main": [
     {
       "title": "“Defund the police” is dead, but “defund real estate” is thriving",
@@ -140,7 +140,7 @@
       "title": "Rent controls meant to shield tenants from spikes… · Consequences ⚖️",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkxHSldDSXZOZ2hfbVNwLXVZV0s0ZHk5MzBjOGhSUXJiOHVQVDhaMW0zcTViZVlfZVYtWmRCNG9LNHNmaEIzY3ZXellHYVB6NVRSNWR1SEp0b3dZUGl5MFE3bGpOR2Zsa1VpM29rVmtqV0JDN1BjTm1lUWZXb3VmZVhzamRNYXRIb3BZOGcxc1VUWjFLU2xpRFhMUWN5clBfN19xOVlUNVFrX3VYY0V4VzZ3TktzMkU?oc=5",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "source": "buttondown.com",
+      "source": "Buttondown",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkxHSldDSXZOZ2hfbVNwLXVZV0s0ZHk5MzBjOGhSUXJiOHVQVDhaMW0zcTViZVlfZVYtWmRCNG9LNHNmaEIzY3ZXellHYVB6NVRSNWR1SEp0b3dZUGl5MFE3bGpOR2Zsa1VpM29",
       "category": "RGB",
       "thumb": ""
@@ -608,7 +608,7 @@
       "title": "After the Rent Freeze: What Happens to New York City’s Regulated Housing Stock Now and in the Future",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUkN0TGFuZWl3YVV4WXUzOUlXRUYwcmtFQUx5N3hiSk5MVTZGSkFYOExzU0l4cURUNmVjRVpaa0lUYVRHVjNKYTRPMXZ1YVdHQlZKcHhYR2szaVdDekNiRXBNQ1dzb25icFRHdUxrTQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "source": "vitalcitynyc.org",
+      "source": "Vital City",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUkN0TGFuZWl3YVV4WXUzOUlXRUYwcmtFQUx5N3hiSk5MVTZGSkFYOExzU0l4cURUNmVjRVpaa0lUYVRHVjNKYTRPMXZ1YVdHQlZKcHhYR2szaVdDekNiRXBNQ1dzb25icFRHdUx",
       "category": "RGB",
       "thumb": ""
@@ -758,7 +758,7 @@
       "thumb": ""
     },
     {
-      "title": "NYC rent freeze vote forges ahead ��� despite landlord rep’s explosive, last-minute resignation",
+      "title": "NYC rent freeze vote forges ahead — despite landlord rep’s explosive, last-minute resignation",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2NiQ2NycjA0VVB6MkFZYThiRUF6UTA3TGZpT0xSZzVnZUFDUEE4WFpxeFp1cDU2QUZfQUtCY0Nxd1kxRktqUFAxd0poYkdPOW9DSEV0aXJFUkdtRHhZdkhUTlZmQ0hkMXB2enh0elpSOWFYenJXX29SV2VqektlRlk5SlhPTFdDVUdodmV1NEtmOV9FTGV4Z01HSng2UQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
       "source": "New York Post",
@@ -932,7 +932,7 @@
       "title": "Anchors of Opportunity?",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5SjJXMngyZGtpTms5d0pSN3hxTDlPTnViMGdiNmxHRWFZY0JkdEYzc1JYUGlZQzB0NFloSXBEbGg5VlFuNlJ6R3RHOTMwNlBiOXBNcTk3Z18xeHF2QndsdUtDc05LVXFsV1E?oc=5",
       "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "source": "vitalcitynyc.org",
+      "source": "Vital City",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB5SjJXMngyZGtpTms5d0pSN3hxTDlPTnViMGdiNmxHRWFZY0JkdEYzc1JYUGlZQzB0NFloSXBEbGg5VlFuNlJ6R3RHOTMwNlBiOXBNcTk3Z18xeHF2QndsdUtDc05LVXFsV1E?oc=",
       "category": "Housing",
       "thumb": ""
@@ -1105,6 +1105,15 @@
       "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
       "source": "The City Reporter",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3ZPLUlvZGtMd1dmenVqd0JRZm9MZDA4OVdSaTFVTmI3cUZweXBJaVJxT2M3d0J0UmUwTk5PWmFzNTkzVFB5amxWMGc2UjNTUl8yajE4Z3M4UFZXZm5hQndCOVJmbXFnQmhNYXB",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "Trump’s HUD Strips Protections for Emotional Support Animals in Housing",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbEFNSjczb2RCcVk2ZXlLcm1uT241Y0pPVkhjTWtyZUFPOWVWLUFncTZqNjlGa0R3Y1BXUko1VFlhQXMtaUVCZmIzX3hDLUhyR2RQc1FpUHl2cVZFSXVNSnJLQ2xBUVhHNHptOVFPYlBLSzdrS3QxUUxKMWRxUTdMcFV0b1g2eUxSTkxSU1hOalh6Ul9yZFNTYVc4VmdYejVBLXpjZk1lUUdOQWl5SEFRTzh4Q1hmbHJUU0E?oc=5",
+      "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+      "source": "La Voce di New York",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbEFNSjczb2RCcVk2ZXlLcm1uT241Y0pPVkhjTWtyZUFPOWVWLUFncTZqNjlGa0R3Y1BXUko1VFlhQXMtaUVCZmIzX3hDLUhyR2RQc1FpUHl2cVZFSXVNSnJLQ2xBUVhHNHptOVF",
       "category": "Housing",
       "thumb": ""
     },
@@ -1418,7 +1427,7 @@
       "title": "Emergency housing vouchers are ending early, leaving cities and renters scrambling",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjBDbEo4QWRQMFJmVzRHNUphUmNoSnNyRExCV3RmbXhzVmJ5MEZJWmxjV2JrbEI4eUFLMkx0aVNsd2Jzblh6ZnNzVExJZHVPbXRqS09wWk1DajBGSnl3MzFJNDkwLWowb2dBV2lLRHNWcHdldHpVOVVabXNRMVRtZ1FKMWZaRnprcG5GTUVHbDI2MkhtMzFMYWpEYlhWUlRjdml3d1JtaGU2VDI1X2NYYWpTVWl6QQ?oc=5",
       "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "source": "stateline.org",
+      "source": "Stateline",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjBDbEo4QWRQMFJmVzRHNUphUmNoSnNyRExCV3RmbXhzVmJ5MEZJWmxjV2JrbEI4eUFLMkx0aVNsd2Jzblh6ZnNzVExJZHVPbXRqS09wWk1DajBGSnl3MzFJNDkwLWowb2dBV2l",
       "category": "Housing",
       "thumb": ""
@@ -1541,6 +1550,15 @@
       "thumb": ""
     },
     {
+      "title": "An Athens apartment complex is under foreclosure after its owner was sentenced in mortgage fraud case - WOUB Public Media -",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2pyVVQ2d3V6aExyUS1pd0x5M3JnR1A0UU9Wdk14ekRwNnNPQzh2Y0g5VDZCejJtYXhPdTBZclFJSV80TU4taDlxd2ZQUUNZWGNkUDZNTGRndVdyU3RTaHRBSF9yc041VGE3akxqWnN6bHZUa0dTTWVLSkltVXpMeTRSUGJoaVgxOUE?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "source": "WOUB Public Media -",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2pyVVQ2d3V6aExyUS1pd0x5M3JnR1A0UU9Wdk14ekRwNnNPQzh2Y0g5VDZCejJtYXhPdTBZclFJSV80TU4taDlxd2ZQUUNZWGNkUDZNTGRndVdyU3RTaHRBSF9yc041VGE3akx",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "Can Developers Help Save Public Housing?",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNC1mZzlQQXpNMlNkRGJHOTBtb2VodlhoOG5fa012Q2JtYXp5bFpZUWlydWlyZDk3cmVucDZ1cmM1TTBUVG1GZDdnZWhPSEJlMVdOdUt1SWt1OXd2RGlPU096VkN2TndGaktrZUNCTFpHRFlfeFFmdGFVR1c5cFBmVmhFM1k2VGlCZ1NRRG80aHdkZw?oc=5",
       "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT",
@@ -1589,7 +1607,7 @@
       "title": "Rent Stabilization: What’s Constitutional, Anyway?",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFNnSE05TU02WjdHYk9qczdraE8wbHhfcWpkZnVrZjJNQnlRclNJSlExRG0xMzJqdGVxdl93dFpWTjA1WDgtdXFaOW1nckEzeDFySE10U09oOFBWYVFiRWpNVlR4Nm16TlNjUjBiOTRNeVBGUlhRY05mbDY2eVlkN1Y0a0Fsd0VQ?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "source": "vitalcitynyc.org",
+      "source": "Vital City",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFNnSE05TU02WjdHYk9qczdraE8wbHhfcWpkZnVrZjJNQnlRclNJSlExRG0xMzJqdGVxdl93dFpWTjA1WDgtdXFaOW1nckEzeDFySE10U09oOFBWYVFiRWpNVlR4Nm16TlNjUjB",
       "category": "RGB",
       "thumb": ""
@@ -1730,6 +1748,15 @@
       "thumb": ""
     },
     {
+      "title": "Senate approves 21st Century ROAD to Housing Act",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwMjFvTVdoM2o0X0otcU9RZV9abVU2NmRCcDZWR1FxN2xLdFZkS3U5dldDbnJSenE1MEkxUkpwaWI1RVFhbmVkYmdtQXBZM3lZVlVnSXV3d0hYdmJlZE1zbHQ3bk0?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "source": "The Architect’s Newspaper",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwMjFvTVdoM2o0X0otcU9RZV9abVU2NmRCcDZWR1FxN2xLdFZkS3U5dldDbnJSenE1MEkxUkpwaWI1RVFhbmVkYmdtQXBZM3lZVlVnSXV3d0hYdmJlZE1zbHQ3bk0?oc=5\" targe",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "NYC Wins $2.1M Judgment Against Landlord",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk5nRUxDdHFrMGtDdzJQYXR0ZnNEcGhyankxZkxJam8tcTBhQTVXSFBycktJM3J4MzdKamZBaUczbERaeGNRaTVLSmNuWENLN3AtTC15VjVnVTZqTnJWbEtHQ0I3YVlKQnJud3kzcTdfWUZnd0pFVUFuNlgyaEpOaWFTMGZMb0k?oc=5",
       "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
@@ -1771,33 +1798,6 @@
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "source": "Brick Underground",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFqbmRicW9GUWxiWlluSy1oOVpJNkdvelJUQXJSbDVSQ2I5a3RUdGVnUE41Y3UwenhMQjRtNTIxeEZnZ09yMnM4VE5LbmIxdUtYOHQ4WUtQb1FsclVNUHJyemZEV3lRc0R2d0R",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "Mamdani wants to take buildings from bad NYC landlords. This bill could make it happen.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBsTllCWkYtS0NSWmhaMVJLMS1lWDAyTTZGb2tFN1d4ZEIxZ25xLTlkdFB2eEpWVDJxazRfMko2blo1aVVYYnNlVlEwRHBGVVRQc0d1clNhSmdzbzV0b1dtc1J2WW9odFBVbGFFTXZzRzVaYTRJdGFVTlFyb1lvZ2dRWXVobWoxY3NSTzgzRDhmTnEzSWpNMmwya1Y1YlkxMjJ0X3dzcHMzMUZISmlRTkF3?oc=5",
-      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "source": "Gothamist",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOODBsTllCWkYtS0NSWmhaMVJLMS1lWDAyTTZGb2tFN1d4ZEIxZ25xLTlkdFB2eEpWVDJxazRfMko2blo1aVVYYnNlVlEwRHBGVVRQc0d1clNhSmdzbzV0b1dtc1J2WW9odFBVbGF",
-      "category": "Bad Landlord",
-      "thumb": ""
-    },
-    {
-      "title": "New State Housing Vouchers Will Serve About 1,000 NYC Households. Lawmakers Say It's Not Enough",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNem9jbElXTWNGcEFCRzhQSDNja1c0Q0hBTm85OU5sWnZjc2MzZ2JpSVlKYTZvai1TWVNoTXg1NUlYZ191THNva3ZCRlBCLS13RFVsYjJad2ZfT01QUEpQLTRVbktDY1dqS24zcG9lQVlXYVZWVmUwcEJZQnNLak1obHp3WHNGYzlsX0lBaC01eWVhZFhzUGdTSGlMMFB6NDh3Q3FuMGUzU3F6SFFPOUdsWnl4X2xub3c?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "source": "citylimits.org",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNem9jbElXTWNGcEFCRzhQSDNja1c0Q0hBTm85OU5sWnZjc2MzZ2JpSVlKYTZvai1TWVNoTXg1NUlYZ191THNva3ZCRlBCLS13RFVsYjJad2ZfT01QUEpQLTRVbktDY1dqS24zcG9",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "New York appeals court strikes down housing anti-discrimination law",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3dzQ0xHUkFlc2E0dGJRWkNXODhmRnZRdzctS3dKdkxaMWJrQ09oUER0alhOY1JQbjhjU09ibGFuVVFpUUdVa193VUtfTzQwUnRtS0U3X01LazFFaGpkallDRmEycGNzbDJIa2k5bnc1U1FwZnItY2FfVWstQnczdEdYUElQQXQ4bUp3ZkhISXJULTVf0gGaAUFVX3lxTE9rTUd2VWlZYnRrclN0T0RwRUJ3eG0xNEIxS2FsS2FwM1RidmUyS3c1Q081SVVNUVl2YklRNTdyNDFDVVZ2ZWhpbE8zTEFuWlJYMXJESlV4ZllRR01MVWhabnhrWTY0UEp4Z0ZxeTlnSEJBVTJ2LWNHTHZDc2xSalZGZ1JBeHo1TWlpT1l3SDRjMVRKUmNZelphemc?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "source": "The Center Square",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3dzQ0xHUkFlc2E0dGJRWkNXODhmRnZRdzctS3dKdkxaMWJrQ09oUER0alhOY1JQbjhjU09ibGFuVVFpUUdVa193VUtfTzQwUnRtS0U3X01LazFFaGpkallDRmEycGNzbDJIa2k",
       "category": "Housing",
       "thumb": ""
     }
@@ -1906,7 +1906,7 @@
       "title": "My building used a rent control loophole. Here’s what happened.",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDA0WDFiMWstdFhPc1M2QVFoNm9SaVFIbThBd1JWQ1hWSlRILVFuRm9Eb0pHWTc4OWtiaEt2d052OUV5RGVmeWI3b2R1YjBMbDhxQmtLeldxSk1DSml5elhfTmhUVUpWbmhKRmd5V0VNZ19aZGJTbkpvU2txR2tEazZB0gFIQVVfeXFMTW5DNEdVSkVJVEh4dExFeWlHU2NoMHdLMU41ZjU1bE5MV3dYS2NCZTFIeG4xeWRaMURoT1FBcld2MTNUSjRKRkky?oc=5",
       "pubDate": "Thu, 20 Feb 2020 08:00:00 GMT",
-      "source": "Greater Greater Washington",
+      "source": "ggwash.org",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDA0WDFiMWstdFhPc1M2QVFoNm9SaVFIbThBd1JWQ1hWSlRILVFuRm9Eb0pHWTc4OWtiaEt2d052OUV5RGVmeWI3b2R1YjBMbDhxQmtLeldxSk1DSml5elhfTmhUVUpWbmhKRmd",
       "category": "Akelius",
       "thumb": ""
