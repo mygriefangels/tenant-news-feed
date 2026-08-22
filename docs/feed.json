@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:20:18.959Z",
+  "updated": "2026-08-22T21:19:53.086Z",
   "main": [
     {
       "title": "NYC landlord agrees to help formerly homeless tenants before evicting them",
@@ -38,6 +38,15 @@
       "thumb": ""
     },
     {
+      "title": "NYC needs to build 700K homes in the next decade to keep up with demand: report",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUVNaDhBQzJVZVdMWUZsWnJadjFQNEJnQXBaR083LTZHSXdHX0dFZWM4Z0VOc1daWkkwSVF2T3U5NU1VQ2Z4dW5oYjZ2VGJvMk1ibkhqa0lBNGZCbGtqZHc1Q1JaNjJvcGtuaV8wRjZLbXlScnVCQmE4WVZtNjhRVWlZa2ZZYVhEQmZpS0ZrWWQxZkp2eVJqQ3psU0ZlWHd3UXN6REVvTFRjVk9mbVlTaU55OFFaelp6?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 23:08:00 GMT",
+      "source": "New York Post",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUVNaDhBQzJVZVdMWUZsWnJadjFQNEJnQXBaR083LTZHSXdHX0dFZWM4Z0VOc1daWkkwSVF2T3U5NU1VQ2Z4dW5oYjZ2VGJvMk1ibkhqa0lBNGZCbGtqZHc1Q1JaNjJvcGtuaV8",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "New York City small landlords struggle under strict rent stabilization laws",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YZGpxSUFHN015bFJZTVJ1M3YyS1JHTnNzc01yR0lfLThSU3FYd2t4akNCTkNUc3lLSFAxNDNxdDhubHRoc0kzRkIxTVBmUndFOGpSOUNidVExUDA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 15:44:57 GMT",
@@ -61,15 +70,6 @@
       "pubDate": "Mon, 17 Aug 2026 16:30:00 GMT",
       "source": "Brick Underground",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWJ0RmRlaEhDWWtua2FQVXNmejhBeUhqdVhocTFPczJIa2UwQ3Flbmp3dmdpSDM2NzVuUktCaE5GXzMyY1Radm1nLWJwV2tBUDJ6VzBqNGlsRXBMSnhtY0wxMVRScmY0Ny1nNFk",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "The 2026 Trailblazers in Real Estate",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaDg3U29MendUZWpQMWIxcHgxOWRXcVZEZHlyMEx5TV8yVk9URWhCZmVVbUg1Vk80VEVkUnFoVmVodDB1NFc3a2ZHdWpxXzJac05BWHhfQzZ3Nkp3aGVnMnpKMGZDdi01aUZJNC1ld0I3QXliNjFrdG9rWG1jd0oya3ZtR3BreEZmTUlKbUd6VFcyQQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 09:00:00 GMT",
-      "source": "City &amp; State New York",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPaDg3U29MendUZWpQMWIxcHgxOWRXcVZEZHlyMEx5TV8yVk9URWhCZmVVbUg1Vk80VEVkUnFoVmVodDB1NFc3a2ZHdWpxXzJac05BWHhfQzZ3Nkp3aGVnMnpKMGZDdi01aUZJNC1",
       "category": "RGB",
       "thumb": ""
     },
@@ -1292,7 +1292,7 @@
       "title": "What updated HUD guidelines say about emotional support animals",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWk82X0htMXdfVTRfcmJ0QUdEal9IZzRwV2NSTkNucjVMN3F0a0QySmpZNWFjYzZOU1BLT2tocXVTQk16Vm51eS1OX0hKbUd3T2dpZEdmR1V6RVJwMXVxRXROdU1yeUxROURmM19YOVhFQQ?oc=5",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "source": "Snopes.com",
+      "source": "Snopes",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9RWk82X0htMXdfVTRfcmJ0QUdEal9IZzRwV2NSTkNucjVMN3F0a0QySmpZNWFjYzZOU1BLT2tocXVTQk16Vm51eS1OX0hKbUd3T2dpZEdmR1V6RVJwMXVxRXROdU1yeUxROURmM19",
       "category": "Protected",
       "thumb": ""
@@ -1577,15 +1577,6 @@
       "thumb": ""
     },
     {
-      "title": "New York lawmakers push rent stabilization, housing aid for upstate in state budget",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmZER2ZLSHJxNEVoTzAtbjJOWXl1eHhGdmQ1M3J2NW5ORVc3VWRGY3Q4U092akltdXZ0SjRQZm52LS1LY2tvYmI5cGNvOVN0UjRONXpkd3ZoR2JiRVI0U2pka2VXYlp1MEw1Y1dEb1pnckc5cVRVcVNydTZJT1JVS3Z5NDduYTF5UGFYVEFKREMyNmx0a3NDaEdpelJLbTlvdWxZUDc3RGxQYUhYeU8zVW1HVU1rTjg?oc=5",
-      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
-      "source": "WRGB",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmZER2ZLSHJxNEVoTzAtbjJOWXl1eHhGdmQ1M3J2NW5ORVc3VWRGY3Q4U092akltdXZ0SjRQZm52LS1LY2tvYmI5cGNvOVN0UjRONXpkd3ZoR2JiRVI0U2pka2VXYlp1MEw1Y1d",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "NYC Mayor Mobilizes New Yorkers to Testify Ahead of Rent Guidelines Board Hearing",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcm91WFFEbmZBSHFrTDd4ZkowZklWTjlxaU0tTVB5cHZ6eFdaQ0tEMEpkMFZmSm1GR1o3c3VudFo4Z3k5SkRxaURINWRKR3BYX2Q1bXhJYWNsejE5ZXNEdzUwbUw5ay1Pb2hINkJRY01MMTQzSjA1UC15c1lJc0twc3V2VkdoaVZZWGdtdEc0dF9FT0hZakFFUHRORnl1UHJQYV9DQTBGUUJQNmhRNjN1WkRWWlR0d0hsLVNNR3BlcEhJY0s2UHEzUnhzSlRZUQ?oc=5",
       "pubDate": "Sat, 02 May 2026 07:00:00 GMT",
@@ -1649,6 +1640,15 @@
       "thumb": ""
     },
     {
+      "title": "NYC Public Advocate Opposes Federal Rule To Bar Mixed-status Immigrant Families From Housing Support",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3R6QjYtNkVwMHdiNTk5Qm9CUXg0X3N5UlA4QXl0akEtVXNSdnZCaWxRMUhYREJQQVR6R2EzQW1SQ3Rid1BRTDB1TGhIZUpaVW5IcVdXcmhuTTIwbnhKdlBzdE5naHF4S2pZQUJESU82SHQ2SWkyX0pfbjk5NWtMVjFSV2NWWUQ3bi1GcWM4RjItYkYyUTVkNGhZcHVrNmZINmE3WTBnZkVmbTNLOUxPaXc1aU9IWFlST3JDXzlyY1Uwc3VEOGRhVnNR?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "source": "Office of the New York City Public Advocate (.gov)",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3R6QjYtNkVwMHdiNTk5Qm9CUXg0X3N5UlA4QXl0akEtVXNSdnZCaWxRMUhYREJQQVR6R2EzQW1SQ3Rid1BRTDB1TGhIZUpaVW5IcVdXcmhuTTIwbnhKdlBzdE5naHF4S2pZQUJ",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "‘Hidden Truth’: NYC Landlords Allegedly Use ICE Threats to Intimidate Immigrant Tenants",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2FlaHJMNHZVUVVtMHZtSHFKbnJRazJNMzRpRkZYWEMzcnBOak5kREtDbGQ3R25fQ20xY3RZTXRCZW5iZVpOSEhxTGVRUVBWZF9tVzlDT0Y0RVlBWDZlaUU4Sy00aXNKMG13NGttM0xxWkk5VzFvMjlVT2d6c1lxNUJKLUF1VzBRSlE?oc=5",
       "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
@@ -1663,15 +1663,6 @@
       "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
       "source": "WRGB",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE5zUW10d25aTHU5X3BOVWx6cTc5QXExS0k2NEJXY1dzTzZydE1fcVFjMVJhX0RNMDRvWWdoWTlYaEcwMlk3eHRtWWpycHNrdWJ1Q2s3UE5WVGY3d3pDVVBVaXZGbl8tTEFxTHI",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "Subsidized Housing and Climate Change",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGtPMkluMUw3UW1tQlc0TFZzdWpEQkVpNkUzV1ItcjN0QmFNME1aQmpjU1pDenE3cWY2aUJqMVQtTnJSWlNhb2V2TWJwb1lYSUxEeWNubHRTbXpkeGlyMDJ1RzgwOFk3OW1NdHRzRkV2V3VNNGdVVUFCS0w3OE1PaG5uMWZsYTV1Y2c?oc=5",
-      "pubDate": "Sat, 18 Apr 2026 06:13:38 GMT",
-      "source": "Community Service Society of New York",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGtPMkluMUw3UW1tQlc0TFZzdWpEQkVpNkUzV1ItcjN0QmFNME1aQmpjU1pDenE3cWY2aUJqMVQtTnJSWlNhb2V2TWJwb1lYSUxEeWNubHRTbXpkeGlyMDJ1RzgwOFk3OW1NdHR",
       "category": "Housing",
       "thumb": ""
     },
@@ -1784,6 +1775,15 @@
       "thumb": ""
     },
     {
+      "title": "Help for rent-stabilized landlords appears unlikely as Mamdani’s board kicks off",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hNRk15OXl1YzJsbEZNNU02ekVxQ2FqMzNzTTVLTGRTbS1WcFppc3lrZ2ctTnpfRDFMYnFOSzdLenQyM0haZC1NLXBpaFZDWGFqTzZHVUxETUdDcmJTUElOdTlzZGJjZ21SMnlVN3ZxTC1GaUo4TGNZc25SQTdnbUUtXzJ1SHkzWmdRUUg3RUtWbUlrUjc4Z2pmc3V4Vk1kRUs2S0JEZGI?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hNRk15OXl1YzJsbEZNNU02ekVxQ2FqMzNzTTVLTGRTbS1WcFppc3lrZ2ctTnpfRDFMYnFOSzdLenQyM0haZC1NLXBpaFZDWGFqTzZHVUxETUdDcmJTUElOdTlzZGJjZ21SMnl",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
       "title": "New York AG appeals ruling that could allow landlords to choose not to rent to Section 8 tenants",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjdaRGZWeXlpSFlKWTVIdWRQVHJlejdkX3ZsV1BMVFpTVTNtdks3NjNNS2QzWm9LMVd0MVp0VmZuQWVPdDhySFpOOEcxdEJFTm9QYnNrdHUzbmR2TFZKYXM2cE0wSkdTWmFRbXdMOW0yejdvYU05MWpNUllfcDJsUG5KcjBNUlFxQVVsbS1MRFY4N0hoMlRoa19jU1M4dFlJaElwN1NMUk5jMDl2OFpER0lYWFQ5RHZ1OXl1TGd3MVd5dw?oc=5",
       "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
@@ -1822,11 +1822,29 @@
       "thumb": ""
     },
     {
+      "title": "2324 Chelsea Tenants Assoc. Frustrated by Slow Rollout of Repairs - Chelsea Community News -",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUZRcXZqWmdsNFhGZjN1a1pHamRsMGVMMFBrSGpzWFhHUE92MTJrTmIxTUVqUkhIUWNiN0pwWHdJbXBQczBwM0lZemhkem5IZnlIRjBienB6YUF0QjlrYmFJUEhZYkJtenplc2lNUzR0bE5XZDFVaUNRMDMtWmo3ck9tZHVZbVNmaFBrV05tWlFBcFZWc3JQcDU4a1Zkd2FSWWhuanJjVHNyUFFPT3c?oc=5",
+      "pubDate": "Tue, 27 Aug 2024 07:00:00 GMT",
+      "source": "Chelsea Community News -",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUZRcXZqWmdsNFhGZjN1a1pHamRsMGVMMFBrSGpzWFhHUE92MTJrTmIxTUVqUkhIUWNiN0pwWHdJbXBQczBwM0lZemhkem5IZnlIRjBienB6YUF0QjlrYmFJUEhZYkJtenplc2l",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
       "title": "Renters in this Toronto building have been without heat for nearly a month",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUmVTLVdybmhHZlM3NFVkQXIxMHJKdFlTYmY4bXZlQTd6Z3gzODRhRGt2c0tfQVlSS3dlMmdGc3VfTzNPenpkdklpSXdralVNamJlcWhTckJsTlJpZjFCRU5WLWtIMEFpVjFHanZ2N2d5dWpFTTkyRnZxenZPSkdQTjBuMDZoQnY4QXlZ?oc=5",
       "pubDate": "Fri, 22 Mar 2024 07:00:00 GMT",
       "source": "blogTO",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUmVTLVdybmhHZlM3NFVkQXIxMHJKdFlTYmY4bXZlQTd6Z3gzODRhRGt2c0tfQVlSS3dlMmdGc3VfTzNPenpkdklpSXdralVNamJlcWhTckJsTlJpZjFCRU5WLWtIMEFpVjFHanZ",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "Akelius tenants say a cold water shortage lasted months - NOW Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0ttLTZLX054LXBMRktwVXNQRHdoMVBPUmswOFo4SzdsZ01YUGxDNmtZclotZmFObzRncHlLaE5vaEhYVDJuWVN4S3VnT1BaOV83YVFUcDZzcDFWTndOTDRzMVh0VXlTVlFVYk1jV2prY3JmaXRDV21KMDNNR0ZzeXp5TWFXMjhQTm5pMWNB?oc=5",
+      "pubDate": "Wed, 13 Sep 2023 12:43:14 GMT",
+      "source": "NOW Toronto",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxON0ttLTZLX054LXBMRktwVXNQRHdoMVBPUmswOFo4SzdsZ01YUGxDNmtZclotZmFObzRncHlLaE5vaEhYVDJuWVN4S3VnT1BaOV83YVFUcDZzcDFWTndOTDRzMVh0VXlTVlFVYk1",
       "category": "Akelius",
       "thumb": ""
     },
@@ -1840,29 +1858,11 @@
       "thumb": ""
     },
     {
-      "title": "Rent control: What tenants should know as rental prices surge across Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Yi05Wl9CaXA5Z2V5bFhzU201bm1wNS04MzN6VUJNdEhQNHNDVmpFaEU5cHk0V2pqY0t6QXhEcTNWaUFhczVEZGFBUm1Tem5rQVhsSFRTSGRNd25aY0hLT1Q1NGtQSTd3UmNtTUFjRW8tSlM0YXNiaWlR?oc=5",
-      "pubDate": "Sat, 28 Jan 2023 08:00:00 GMT",
-      "source": "Global News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE03Yi05Wl9CaXA5Z2V5bFhzU201bm1wNS04MzN6VUJNdEhQNHNDVmpFaEU5cHk0V2pqY0t6QXhEcTNWaUFhczVEZGFBUm1Tem5rQVhsSFRTSGRNd25aY0hLT1Q1NGtQSTd3UmNtTUF",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
       "title": "Arlington apartment complex trades hands amid flurry of deals to close 2021",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVRtN1R6MWJ2Qk5BYmc0NGNwcHZKSTcyLTRjOVJNdTVyejNoRUtXQnlqcTA3ZnVweUZjaW1LVVlEMjhTUl9SeHZxYjlzS0Y0dm5JZXNaVHFrNXZrNV8tel9JMGhFWUFsbV8zZ2ZjVFQxcHBJWk8ybGNoNndvSWhRUnBQa1JpRm1FU2NvdmZ4dUdyN2oxd0E?oc=5",
       "pubDate": "Fri, 07 Jan 2022 08:00:00 GMT",
       "source": "The Business Journals",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVRtN1R6MWJ2Qk5BYmc0NGNwcHZKSTcyLTRjOVJNdTVyejNoRUtXQnlqcTA3ZnVweUZjaW1LVVlEMjhTUl9SeHZxYjlzS0Y0dm5JZXNaVHFrNXZrNV8tel9JMGhFWUFsbV8zZ2Z",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
-      "title": "Akelius tenants say a cold water shortage lasted months - NOW Magazine",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0ttLTZLX054LXBMRktwVXNQRHdoMVBPUmswOFo4SzdsZ01YUGxDNmtZclotZmFObzRncHlLaE5vaEhYVDJuWVN4S3VnT1BaOV83YVFUcDZzcDFWTndOTDRzMVh0VXlTVlFVYk1jV2prY3JmaXRDV21KMDNNR0ZzeXp5TWFXMjhQTm5pMWNB?oc=5",
-      "pubDate": "Thu, 11 Feb 2021 08:00:00 GMT",
-      "source": "NOW Toronto",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxON0ttLTZLX054LXBMRktwVXNQRHdoMVBPUmswOFo4SzdsZ01YUGxDNmtZclotZmFObzRncHlLaE5vaEhYVDJuWVN4S3VnT1BaOV83YVFUcDZzcDFWTndOTDRzMVh0VXlTVlFVYk1",
       "category": "Akelius",
       "thumb": ""
     },
@@ -1908,15 +1908,6 @@
       "pubDate": "Mon, 04 May 2020 07:00:00 GMT",
       "source": "Inside Housing",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUpCa09IcWltMjc0SW9VZUhNcnhlemxZSGdHVjJyMjBib2p2VmRZeWFsdnhKQlNLNEFSMEU2ZVZMRmhYamZuTjFrcFRseHdXZXZtdnZ1YWNNTEp4UDJ4Y3drSmdPT0RXdzJBZkl",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
-      "title": "UPDATE: Parkdale building work paused after disturbing tenants in isolation",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3paR2tBcWpObjNrOXR6b0NtcWVOSGxCRGZfckZZaGdPeVp4QjJtMkJJSmpvajRzZHpwRU0zZnNrNzhFYzlmZkFibVBuR1oxSTZYRzJld3FuekVpazYwbFRZaHRMaVF1YTItbHh4Q1M5QkpVMFZEeF9NVEhXSzB6LTI4NU8xcUJnMUJGU1NJX2hsZDVkQXczVXR6ZTc2ZDU2YlRZQ1dtZFVfY3psbXNRbGxYdkZ4bmU1VmcwcEl0ZWhOMGhLNXZoZ2YxV1hVMFhfdTR3UURjRlp1Zjg0b3lUQnNYV28yYURR?oc=5",
-      "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
-      "source": "Toronto.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3paR2tBcWpObjNrOXR6b0NtcWVOSGxCRGZfckZZaGdPeVp4QjJtMkJJSmpvajRzZHpwRU0zZnNrNzhFYzlmZkFibVBuR1oxSTZYRzJld3FuekVpazYwbFRZaHRMaVF1YTItbHh",
       "category": "Akelius",
       "thumb": ""
     },
@@ -2052,6 +2043,15 @@
       "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
       "source": "RENX",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBUcWRkM3BicXVxb01FYnc2NVhiRWhyZkFiSF93cnR1NE1CMGZSOWRfQ1RtRnlIZ3JacWEyRlQ5S0IyRkdDZ1diVnhsQlpqR2NIUko1OERXUjBXWlUzd2hmRlFfS19vOW5SYUdVcDc",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "JLL Facilitates $57M Sale of Metro D.C. Apartments - Multi-Housing News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjMxN0MxNENlNEpPT1k0UGtqYnU3QmVPX3V6YkNYRmc?oc=5",
+      "pubDate": "Fri, 20 Nov 2015 08:00:00 GMT",
+      "source": "Multi-Housing News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjM",
       "category": "Akelius",
       "thumb": ""
     },
