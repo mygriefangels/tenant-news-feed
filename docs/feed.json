@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:42:10.553Z",
+  "updated": "2026-08-24T05:36:29.703Z",
   "main": [
     {
       "title": "Rent-stabilized tenants in NYC demand faster responses to housing violations",
@@ -124,6 +124,15 @@
       "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
       "source": "New York Post",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNzWWFvUVJYMkp4WmRqdEliWldoQjczRUhyVEQ4NTdKNmtoemhnOVZlRjRuUEliS3Z0aUxxenQ3TkVwTjVONjZGRGlNUzMxd1ZIN3cyQ1M3YXR6eTNVQW9xYU1zYkVMdFdoaF9",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "West Forest Capital Continues NYC Rent Stabilized Bridge Lending Following 2026 Rent Freeze",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOV3JYLXZHZEhvWC1mVTc2dHdiREtaQ2NUMmxOM3ZKU18tY1ZtZFYxQTRiVXc3YkVMaW9tbU5fMHdGVURiSzRYRW5Jd0dmVWNXSGRpRWJjNGNiaXN1TFdQSzdCa0FVZFRyTEUzWkgxSk1HRXB6dzR0TWFLaDRVQkUybks3ZXJ0c1Zxanp4OHhKQV9zajJkMGRtNWFmUDh5c090Q2dhSjJIaFh6d0FNWHhHSmtOX1FUaDhJMkdzZ1lkQm1KQk5EVkFxS1Zxdnd3bTN2RVNlWWFZUHI0VkxwdmlRQWp5ZFdjckFSX1lPUHpWYVVnZTVzc2JVamxFQ1BOenBGVHg0YmdVZ0F0cXplNmdSXzZuQUJrTkhSeGU2ZUtHUkl2a0dVM2YtdXJWYlMwdnVORGt0TQ?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "source": "True North Radio Network",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxOV3JYLXZHZEhvWC1mVTc2dHdiREtaQ2NUMmxOM3ZKU18tY1ZtZFYxQTRiVXc3YkVMaW9tbU5fMHdGVURiSzRYRW5Jd0dmVWNXSGRpRWJjNGNiaXN1TFdQSzdCa0FVZFRyTEUzWkg",
       "category": "RGB",
       "thumb": ""
     },
@@ -1370,15 +1379,6 @@
       "thumb": ""
     },
     {
-      "title": "Mayor Zohran Mamdani’s FY27 financial plan allocates money for housing",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTdQSDJsLWx1TVNyc2ZvTVV2TEdaSFo3eVd2djVHYjU4MnBPU2EtY1BlYVR6SzY5NUszQXY3Q1VjNWFEc2wwZ1BUZERsQ1VSczNRd1lDQkxvTlh0TEhEb2ZjOGU4SHlTWWlxX01hMWl3UjdGakh3UGRjNmstU0kwUWE3Y2t3MXZ4X3M1WXEwWDZDN2ZXYnBR?oc=5",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "source": "The Architect’s Newspaper",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTdQSDJsLWx1TVNyc2ZvTVV2TEdaSFo3eVd2djVHYjU4MnBPU2EtY1BlYVR6SzY5NUszQXY3Q1VjNWFEc2wwZ1BUZERsQ1VSczNRd1lDQkxvTlh0TEhEb2ZjOGU4SHlTWWlxX01",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
       "title": "Advocates Press for More 'Right to Counsel' Funds, As New Yorkers Facing Eviction Still Struggle to Get Legal Help",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkNKMVA3d05jZ1FnUmp6azhFcllUZXdQSFZHZXpXREZyNFBsb2I5VWI2QjBzelZNX0xzWGlZdlFlZVNzT2lKUGNyMEl0OGU0TlplQkFyZkgtNUw5MlBmS3Q4OW03ZVJlZzNodjItcnpsTkJDY1pmX2lzUTZFNDVZMWF6QjFFcE9lM2tBR25mQzFYTnRaWTZReEZmOUxmMEl4ZW14dC1IWTE4OFFQcHVKck4wcTdBTVdIMHZYUVBxc3BneFp4eXV4NXByc05vM3ph?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -1793,12 +1793,12 @@
       "thumb": ""
     },
     {
-      "title": "Help for rent-stabilized landlords appears unlikely as Mamdani’s board kicks off",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hNRk15OXl1YzJsbEZNNU02ekVxQ2FqMzNzTTVLTGRTbS1WcFppc3lrZ2ctTnpfRDFMYnFOSzdLenQyM0haZC1NLXBpaFZDWGFqTzZHVUxETUdDcmJTUElOdTlzZGJjZ21SMnlVN3ZxTC1GaUo4TGNZc25SQTdnbUUtXzJ1SHkzWmdRUUg3RUtWbUlrUjc4Z2pmc3V4Vk1kRUs2S0JEZGI?oc=5",
-      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
-      "source": "The Real Deal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2hNRk15OXl1YzJsbEZNNU02ekVxQ2FqMzNzTTVLTGRTbS1WcFppc3lrZ2ctTnpfRDFMYnFOSzdLenQyM0haZC1NLXBpaFZDWGFqTzZHVUxETUdDcmJTUElOdTlzZGJjZ21SMnl",
-      "category": "RGB",
+      "title": "New York AG appeals ruling that could allow landlords to choose not to rent to Section 8 tenants",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjdaRGZWeXlpSFlKWTVIdWRQVHJlejdkX3ZsV1BMVFpTVTNtdks3NjNNS2QzWm9LMVd0MVp0VmZuQWVPdDhySFpOOEcxdEJFTm9QYnNrdHUzbmR2TFZKYXM2cE0wSkdTWmFRbXdMOW0yejdvYU05MWpNUllfcDJsUG5KcjBNUlFxQVVsbS1MRFY4N0hoMlRoa19jU1M4dFlJaElwN1NMUk5jMDl2OFpER0lYWFQ5RHZ1OXl1TGd3MVd5dw?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "source": "Central Current",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjdaRGZWeXlpSFlKWTVIdWRQVHJlejdkX3ZsV1BMVFpTVTNtdks3NjNNS2QzWm9LMVd0MVp0VmZuQWVPdDhySFpOOEcxdEJFTm9QYnNrdHUzbmR2TFZKYXM2cE0wSkdTWmFRbXd",
+      "category": "Housing",
       "thumb": ""
     }
   ],
@@ -2020,15 +2020,6 @@
       "thumb": ""
     },
     {
-      "title": "Akelius Shells Out $56M for Historic Multifamily Community - Multi-Housing News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekNOejVMQ08wY2N3UTdRcUkwcGFIUUlSbEhlSVFjeVFRV0hkWk8tcjdkY3ZXbG5pWXg5VUNySTFiTHNKaDgyTWhhcVJlV3EweEVWLWZmb1BXMkhLRWtDSEx0NEMtOVNXVG5QVnIzNWxUTFc1ZmVDU2ZIb0ZRN0lUaGRUU3B3OTNnLU1KejRiRjRxTnBXS3c?oc=5",
-      "pubDate": "Wed, 18 May 2016 07:00:00 GMT",
-      "source": "Multi-Housing News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOekNOejVMQ08wY2N3UTdRcUkwcGFIUUlSbEhlSVFjeVFRV0hkWk8tcjdkY3ZXbG5pWXg5VUNySTFiTHNKaDgyTWhhcVJlV3EweEVWLWZmb1BXMkhLRWtDSEx0NEMtOVNXVG5QVnI",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
       "title": "Akelius buys Clinton Hill multifamily complex for $57M",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2h4WnBVTTdqY3JFdnQwcWYtSjRuWWlIX3VmcDRjVkllamdyQmdIM2N1SkNEYXR1TXZMVlRqTUdiblhwZDVaRkRVM3YzdGtuT0JMZU1Tb2RLRVd2WWx4a19PSWhfWTF2OHdQZklQUEF2eWFqYmw0MXlSM014NXo0OEoyRkktYzBlbmpsZTB4WHNRQUxLTDd5UzZianhRbGc?oc=5",
       "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
@@ -2043,6 +2034,15 @@
       "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
       "source": "RENX",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBUcWRkM3BicXVxb01FYnc2NVhiRWhyZkFiSF93cnR1NE1CMGZSOWRfQ1RtRnlIZ3JacWEyRlQ5S0IyRkdDZ1diVnhsQlpqR2NIUko1OERXUjBXWlUzd2hmRlFfS19vOW5SYUdVcDc",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "JLL Facilitates $57M Sale of Metro D.C. Apartments - Multi-Housing News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjMxN0MxNENlNEpPT1k0UGtqYnU3QmVPX3V6YkNYRmc?oc=5",
+      "pubDate": "Fri, 20 Nov 2015 08:00:00 GMT",
+      "source": "Multi-Housing News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjM",
       "category": "Akelius",
       "thumb": ""
     },
