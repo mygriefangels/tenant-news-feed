@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:35:09.709Z",
+  "updated": "2026-08-24T17:28:57.444Z",
   "main": [
     {
       "title": "Rent-stabilized tenants in NYC demand faster responses to housing violations",
@@ -296,15 +296,6 @@
       "source": "CalMatters",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBPME43d3gtaDlVblRFaDI5aF8wY2hqUDFpQTNSWDF1UUdsWkQ2a0I0cDd0MHVoR044Y2lralJJeGpVYU9aTjh0aDktV0N1MW1pZWxvUWhOZU5kSGdpMW1wd0hiMFc3T0dJT0dLbHg",
       "category": "Housing",
-      "thumb": ""
-    },
-    {
-      "title": "NYC rent-freeze rebellion: Staten Island landlord joins lawsuit against Mamdani policy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE9ocU1wRUMtMlNWdm1mSDdmX2pZQXRxb0QtRVNxUVJWMktsZm5EaUVEaFh0NTdCNUE1andjSUxUZWpOWVpBM1hGbGxGd3luUGYxLXRsYk9vdnlhSzR2YXhZdUYwYUJiekpYT3JkZHRlYWx3OHZvZkdvcU1JS05fLWJOMHdaS21rU0JBbFQzQkR3VTAtU3o1czBKRE5BNTlXbl9nVVMtandYNGdpczI1LVBpWjUwYjlya0ZIMHFyY1FaMk9v0gHYAUFVX3lxTFBvQkJYWWVQdFp3bEdfNEViME9ULUcwTGhRUUlOcmhIQjJqQkh6S0ZkeGFvaHdoV1ZZRDQycjlZTnc2VGJhQUdmSlNOSG1ZbjQyTmhPQ08yb0ppcDRscTIySTJfdTZxd2c0U2p0Z2NGRTNlWVhoOWRlNkF5X2FSWHJSZTRXVGt1SlNtcVRQUkZNOG1vRjdNb1NHaFhrTDhmOUF4eHcxcWVSMFN1dDNuamU2MWowcXdjVlFMTmotYzhEdFZQRFdKM2FiV3BWTWI1TXkzZEMyUmN5Uw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "source": "SILive.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE9ocU1wRUMtMlNWdm1mSDdmX2pZQXRxb0QtRVNxUVJWMktsZm5EaUVEaFh0NTdCNUE1andjSUxUZWpOWVpBM1hGbGxGd3luUGYxLXRsYk9vdnlhSzR2YXhZdUYwYUJiekpYT3J",
-      "category": "RGB",
       "thumb": ""
     },
     {
@@ -1195,7 +1186,7 @@
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
       "source": "Gothamist",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGRSYWsxaWY3MFlEZGpXUW1nT3NlUjJ2aWNQZE1ja01Fd1hzN0JWeUFfOExwTl9jT2ZqZTlyNEM1SjJpSnB3UWFtaUVJbGU0NDlnR3ZteGszWHdhemFSWUxvMk5TRU5JSndIeGo",
-      "category": "RGB",
+      "category": "Rights",
       "thumb": ""
     },
     {
@@ -1667,6 +1658,15 @@
       "thumb": ""
     },
     {
+      "title": "Subsidized Housing and Climate Change",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGtPMkluMUw3UW1tQlc0TFZzdWpEQkVpNkUzV1ItcjN0QmFNME1aQmpjU1pDenE3cWY2aUJqMVQtTnJSWlNhb2V2TWJwb1lYSUxEeWNubHRTbXpkeGlyMDJ1RzgwOFk3OW1NdHRzRkV2V3VNNGdVVUFCS0w3OE1PaG5uMWZsYTV1Y2c?oc=5",
+      "pubDate": "Sat, 18 Apr 2026 06:13:38 GMT",
+      "source": "Community Service Society of New York",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGtPMkluMUw3UW1tQlc0TFZzdWpEQkVpNkUzV1ItcjN0QmFNME1aQmpjU1pDenE3cWY2aUJqMVQtTnJSWlNhb2V2TWJwb1lYSUxEeWNubHRTbXpkeGlyMDJ1RzgwOFk3OW1NdHR",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
       "title": "Public Housing and Climate Change",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDBwWjZnckhMZzhnZUM0RTMyd2FvUGVqc1JVWUJ4d1lob0hpNDlvRS1BRF9LOXp5enFCVUstaEJtUjdHdS1ycV9hSkhKSWNwSWhDRkpLRFQwWnNJMnVobFB5U09tSjlxcGVncWUyVlNIWm9scnhRSUdGUVYwUXVCUENmMXBiWWhEZXc?oc=5",
       "pubDate": "Sat, 18 Apr 2026 04:57:44 GMT",
@@ -1858,15 +1858,6 @@
       "thumb": ""
     },
     {
-      "title": "Rent control: What tenants should know as rental prices surge across Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Yi05Wl9CaXA5Z2V5bFhzU201bm1wNS04MzN6VUJNdEhQNHNDVmpFaEU5cHk0V2pqY0t6QXhEcTNWaUFhczVEZGFBUm1Tem5rQVhsSFRTSGRNd25aY0hLT1Q1NGtQSTd3UmNtTUFjRW8tSlM0YXNiaWlR?oc=5",
-      "pubDate": "Sat, 28 Jan 2023 08:00:00 GMT",
-      "source": "Global News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE03Yi05Wl9CaXA5Z2V5bFhzU201bm1wNS04MzN6VUJNdEhQNHNDVmpFaEU5cHk0V2pqY0t6QXhEcTNWaUFhczVEZGFBUm1Tem5rQVhsSFRTSGRNd25aY0hLT1Q1NGtQSTd3UmNtTUF",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
       "title": "Arlington apartment complex trades hands amid flurry of deals to close 2021",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVRtN1R6MWJ2Qk5BYmc0NGNwcHZKSTcyLTRjOVJNdTVyejNoRUtXQnlqcTA3ZnVweUZjaW1LVVlEMjhTUl9SeHZxYjlzS0Y0dm5JZXNaVHFrNXZrNV8tel9JMGhFWUFsbV8zZ2ZjVFQxcHBJWk8ybGNoNndvSWhRUnBQa1JpRm1FU2NvdmZ4dUdyN2oxd0E?oc=5",
       "pubDate": "Fri, 07 Jan 2022 08:00:00 GMT",
@@ -2043,6 +2034,15 @@
       "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
       "source": "RENX",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBUcWRkM3BicXVxb01FYnc2NVhiRWhyZkFiSF93cnR1NE1CMGZSOWRfQ1RtRnlIZ3JacWEyRlQ5S0IyRkdDZ1diVnhsQlpqR2NIUko1OERXUjBXWlUzd2hmRlFfS19vOW5SYUdVcDc",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "JLL Facilitates $57M Sale of Metro D.C. Apartments - Multi-Housing News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjMxN0MxNENlNEpPT1k0UGtqYnU3QmVPX3V6YkNYRmc?oc=5",
+      "pubDate": "Fri, 20 Nov 2015 08:00:00 GMT",
+      "source": "Multi-Housing News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0lxSHo0ZDFFOTR3TFpOeUlKV0x3LWpqelFHNVBMNGpNWW5FNUFtajFDRkt0RElGM0JiVjBldXhKS0xvcEsxZ3ludmVXVzZsZFJEOGhmMnNVTnoyYURVTV9NOVZpandIaktNbjM",
       "category": "Akelius",
       "thumb": ""
     },
