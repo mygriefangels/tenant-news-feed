@@ -1,15 +1,6 @@
 {
-  "updated": "2026-10-10T15:43:22.873Z",
+  "updated": "2026-10-10T19:46:44.691Z",
   "main": [
-    {
-      "title": "Governor Hochul Announces Completion of 67-Unit Affordable Housing Development in Suffolk County",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeF9KdHQxc0dfZDc2WWxhQ0lpOG1laF82eTJXR0d1VkdLU0lQTDM4NkNlUGthaktqOHA1anJkaHc0dERPNG5DWm83VmhQUGpmZ3JGdU5XamI0V3FvakRFa0I5djBHZ3lNRmZES2EtMXhMTEVZR2dsWW51ODhkb0NnS3BOQWlzWE0wcG94TzBLSTJYc0ZxYnpoZklpMmpUb0lNUUhzTFp6MDhxeGR1ZkhIZHJxaWY?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 17:12:09 GMT",
-      "source": "Homes and Community Renewal (.gov)",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeF9KdHQxc0dfZDc2WWxhQ0lpOG1laF82eTJXR0d1VkdLU0lQTDM4NkNlUGthaktqOHA1anJkaHc0dERPNG5DWm83VmhQUGpmZ3JGdU5XamI0V3FvakRFa0I5djBHZ3lNRmZES2E",
-      "category": "Housing",
-      "thumb": ""
-    },
     {
       "title": "Liberal haven festival-goers weigh government seizure of their homes: ‘I’d be so game’",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGpJSWg5aThPVzM1ZS14MWVKVTRGZmFOalVzVkp5LTZKTFlXTDBJendzVkItYU1jczVXdXVWVnE5RHo3bGNCTnVSZ3BOelRwd2VDOW5LTGZkR2RMUWpMa0oyekxRVGpEbXlWYko5cThKM1NJUGpoMGxVeVRqZzdqRHJHa1RLUkdVbU9KMGUzZDJOSFJLTm5ZNDFrTzZUelZMdTJvaG5IX3dNbjNRbWE0WTItLUM0eUk?oc=5",
@@ -562,7 +553,7 @@
     {
       "title": "The Wealthy Renters Living in Rent-Stabilized NYC Apartments",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3pLVlVPd2lmcFdMNXRMb2N4a3Ffckt6VnlEbUxnWmZ2b0VXWTBnTVdPNW1aZXZiWndCZ0RDQlNkVS1wQzZoaDQtd0xXOWlxQ2JqUVZIdzJ1WTVnWjhtUVNnUkJxRXNyNGtLX3FFam1GTmgxakpJcHJiMXVHek8yR09KeXhFY0FfQWJpT0dBb0NrN0RLcGZJVWsyOFBfSzNYMktXSF9JaFVJb2dGb19ZRjZR?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 14:01:09 GMT",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "WSJ",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3pLVlVPd2lmcFdMNXRMb2N4a3Ffckt6VnlEbUxnWmZ2b0VXWTBnTVdPNW1aZXZiWndCZ0RDQlNkVS1wQzZoaDQtd0xXOWlxQ2JqUVZIdzJ1WTVnWjhtUVNnUkJxRXNyNGtLX3F",
       "category": "RGB",
@@ -965,6 +956,15 @@
       "thumb": ""
     },
     {
+      "title": "Former NYC “worst landlord” strikes a deal, avoids foreclosure",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUZnX0R3aWRpSEMxLTN4SXRpbDJDbDB4OHViekJMOE04clktcVRoOV9LQ1hJekk1cUlMelZMVjJYbEo1RFNObjB3VlJYNkl2WXJfMURmVHFsVXQtNEcxUjJNajNvYzVhSFlOS21YbnNvZ3dGblpmb1oyTU9oNk1JUGp6ZjN2bmh6ZWUwUnM3cVNrM3BJYnEyNUpZdm4?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUZnX0R3aWRpSEMxLTN4SXRpbDJDbDB4OHViekJMOE04clktcVRoOV9LQ1hJekk1cUlMelZMVjJYbEo1RFNObjB3VlJYNkl2WXJfMURmVHFsVXQtNEcxUjJNajNvYzVhSFlOS21",
+      "category": "Bad Landlord",
+      "thumb": ""
+    },
+    {
       "title": "NYC rent board dissenter warns Mamdani-backed freeze could hurt affordable housing over time: 'Slow burn'",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTBnUkl2OWVPU3JQUkt3bmxNUXA0UTc2X005SFNjbmdORnNvem5wbXdYTmU2cjZlaDV0UWxhSDdReXVtM1hXelNLLXJsdHpJYXRUNTVtWkFZeTRuU3FnRjdpQjNIVnpnTm5KU1diUXU5T1YxbGxDQnlPcU5rcWd4VHZYUGpUR0hVbXBFVkEtUTAybmxuNklsRHJoRWNGZzVhdmtzMGFnZllPYTRrbURsRTktOF85UmZXa2dnalpTMzhCd9IBxwFBVV95cUxNakVrWHhHb2Jtb05Ma3ZMd2NYMndLMDk1UW83bmY1eGlxcXZ1T1RJc05MbVhQUGluTUM4dFRfOE8zOGRvcU9mVDFkRVRtWklzNjM5LTk3dUd6ZmlZM2lRZGNjSy1iTmp2TldhT3UxaXlZN1BOaE41b2tuMzRxMGxaX3NlMTM3Y0c1RzRHYVVDWnNnOWhxbGtRT0ZXN2REdkdlOUpUaUlNdk1MbzdTYVFCWVI1M0pFdEE4b2FBZlpWRmhRc0Q4LTBZ?oc=5",
       "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
@@ -988,6 +988,15 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "source": "Competitive Enterprise Institute",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1N4UE5pOHBJaS0zcUxDTDN1dVhEN0JPazg0X1VmV2FTS0hHWDVwbG0wOXg1TlJwYTQ3cEtVZ1RNRlBZZVVLNzhHOWlkZDJrdUh5U0VraDlQOWpBN28xZGw4cUplUlZwc2VQMjh",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "NY Dirt: Do neglected buildings make money?",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEpXMmozeGVmRFZhS0Z4MHE3MV9qRlJuNFpuVnVubHpaY2g0MTZCQS1KQnJ2SGdmMDNLcTVtWFFoMVYwN2Y4OHZlQ0JtQWV0cF9DQVpjejNoRUNsU25tWEZQQU5iTTIzRlpQZmFpWGhRUjNWUTAxLU5rTE5ZQjZJb0lJZTVCaUROUG1yT2NkbG9nS0ZkQU9zRVd3STNWUQ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTEpXMmozeGVmRFZhS0Z4MHE3MV9qRlJuNFpuVnVubHpaY2g0MTZCQS1KQnJ2SGdmMDNLcTVtWFFoMVYwN2Y4OHZlQ0JtQWV0cF9DQVpjejNoRUNsU25tWEZQQU5iTTIzRlpQZmF",
       "category": "RGB",
       "thumb": ""
     },
@@ -1586,15 +1595,6 @@
       "thumb": ""
     },
     {
-      "title": "“No way to create a good outcome”: NY’s rent stabilization crisis",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbU1CZDZRUV9KV2ZKanNrX2NUQ3NsVkdWYWlGZ0pkZEFuUFpJQkFRcVl1STFBYnlOR3VlSlphYlpsTk00QUFfNmk4M3VDWFNxVlVjSG1nWW56Z0RVR0N3RXBULWFENVU2OENleXZsNWd4YWlHbGotenhCNF9NQXJDWDdjQkRNeUtyN2NoT2pKM0xWbTZLQy1SdElfaUJBUQ?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "The Real Deal",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbU1CZDZRUV9KV2ZKanNrX2NUQ3NsVkdWYWlGZ0pkZEFuUFpJQkFRcVl1STFBYnlOR3VlSlphYlpsTk00QUFfNmk4M3VDWFNxVlVjSG1nWW56Z0RVR0N3RXBULWFENVU2OENleXZ",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "Syracuse Housing Authority sees record interest in their Section 8 homeownership program",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVVQWEpUOEg2bHpuV29YZ18xV0ZVbVM2enV0N1ppUGx2UlFDVzBURi0xVmhRZGtDcVBCalhzd2ZkektPcDVsMGhyclpzMDdWcGQ4X1hYZnZneGpNRkhqTlN6Y2R0WWtnOFZPdDBjR05IcHhZSGhBT0gzNDUzYkgtdi10MTZhbnp2REFpbkdjTDRxYmdDaVpsUWtYRFhTZjBvcWhqT2xUdXpqbThEVHVyZ1hIVXNvNmM?oc=5",
       "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
@@ -2187,6 +2187,15 @@
       "pubDate": "Thu, 28 Aug 2014 07:00:00 GMT",
       "source": "Toronto Star",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2pPdjJRSkFYNm1QZVlrelp3R3ZUSGxKc1RwMVl3VTYtcGlWd3d3NXZXeHd6STkzbldmRmdia1BVNzRXVUVwOE5GNU5EeWJKVXlSRHpRTDFkQ0l6bmpyaUYtNENXMjhkVG9KY0M",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "New rent monster",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcGt6MXlPd1o4RlZsWXdjRi1oOTlBc3h1YUZxemhVRGdzZmhoUEVvbjVfNHJvT3pnY3g3TlZRcnlTRlB0WlNwdDAzbjFVNHVDblBQSUtJWHo?oc=5",
+      "pubDate": "Thu, 31 Jul 2014 07:00:00 GMT",
+      "source": "NOW Toronto",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcGt6MXlPd1o4RlZsWXdjRi1oOTlBc3h1YUZxemhVRGdzZmhoUEVvbjVfNHJvT3pnY3g3TlZRcnlTRlB0WlNwdDAzbjFVNHVDblBQSUtJWHo?oc=5\" target=\"_blank\"&gt;Ne",
       "category": "Akelius",
       "thumb": ""
     }
