@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:24:06.292Z",
+  "updated": "2026-10-13T00:10:53.562Z",
   "main": [
     {
       "title": "Too Little Capitalism, Not Too Much",
@@ -25,6 +25,15 @@
       "pubDate": "Sun, 04 Oct 2026 23:44:00 GMT",
       "source": "New York Post",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEZVRXNFSlplQkxDMmYtaFNQY1hOR2twZmJKN3pMRzQ2emhJU1Y3dFVuMldlRjl5S0tWWGxWcExWamVKSDE2UVVORWRUTnhqRXRCVnNvcWNzeUhJU3dvZTd6TUUxZE1NdWpHR1F",
+      "category": "RGB",
+      "thumb": ""
+    },
+    {
+      "title": "Mamdani Promised To Freeze the Rent. Now His Rent Freeze Is in Court.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN01LX0tRSWdMRzNKVHhzR0VjYzE2ZUp0QlNPNl9NUjFMakZ1UmNCZUJpVzNiZm1ObGlfbk9TNHlUall6UjZfWHhlcmo1anlSbG1kbnZ6MWFIZ2lXN1psckJ1MzdmMmQybGJfb0QwX1c3RGNhaFZ1RkJ3Y1A2amg0TWtXWV82S1dXa1E5eWtOTW1iWFgzZEdaQXJBODB5VzA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "source": "Reason Magazine",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN01LX0tRSWdMRzNKVHhzR0VjYzE2ZUp0QlNPNl9NUjFMakZ1UmNCZUJpVzNiZm1ObGlfbk9TNHlUall6UjZfWHhlcmo1anlSbG1kbnZ6MWFIZ2lXN1psckJ1MzdmMmQybGJfb0Q",
       "category": "RGB",
       "thumb": ""
     },
@@ -152,15 +161,6 @@
       "source": "New York Daily News",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHBTMTJNWmFDalRpdXZrQlRJOVZSSXFWT1BHeHluZjFocGlyRnppSlhMRnU5RlkyR3JpbHhxU1Fpbkp5UU1VQzVzUE9fYWptRjZva1VySW5BUXRscGgxbEJEX2kxWTZHVm5iWlV",
       "category": "Rights",
-      "thumb": ""
-    },
-    {
-      "title": "Mamdani Must Turn Over Communications With Rent Board, Judge Says",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNempIYXJ2UWhkVUlSYXNqVlhGTEhJUnQzRjhOcGxfekNlVGdaRHEzVVl5MFc1NWYzR1NENlB2cXY0Y2x5UnFOdGRvbEYtMHQtSG1UWmZHcl9vQzVLdC1EelQ4aWdCVjNfU291eUFMRlotT1hPcFJudmpsUjlNSk9pNjJ4bG1yT1k?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "source": "The New York Times",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNempIYXJ2UWhkVUlSYXNqVlhGTEhJUnQzRjhOcGxfekNlVGdaRHEzVVl5MFc1NWYzR1NENlB2cXY0Y2x5UnFOdGRvbEYtMHQtSG1UWmZHcl9vQzVLdC1EelQ4aWdCVjNfU291eUF",
-      "category": "RGB",
       "thumb": ""
     },
     {
@@ -497,15 +497,6 @@
       "thumb": ""
     },
     {
-      "title": "Landlords, Tenants In Limbo Amid Voucher Funding Crisis",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV29iYkE5Q2dERjBzSnVPdzRYWnhpVzFaTUYwM0tMWlFWZ1VoWVFfaFgxXy1oRERkVTlEWmtBZHlHbm1sWGVia21BcW5zeEhSX3JhUXV0SE91b3pKejk2aUFvLVZRYnRQQVZLMlN3alp6Sko3am5BVWVDTjdEWEc4cXA1VDlzdXRabG4xTG04a01VQVVUamEyQmV5cTFBM1k?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "Bisnow",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQV29iYkE5Q2dERjBzSnVPdzRYWnhpVzFaTUYwM0tMWlFWZ1VoWVFfaFgxXy1oRERkVTlEWmtBZHlHbm1sWGVia21BcW5zeEhSX3JhUXV0SE91b3pKejk2aUFvLVZRYnRQQVZLMlN",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
       "title": "The Success of the New Federal Housing Law Now Rests on States and Localities",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVQxS254b19pNlY3RVFvQlhZNDBrUVNNZjNaX2xrSUxOQXF6TDVZRDdjSy10QldBdkpVU1dZSzdPOWRCVnJ5SVZwb25fNXhrNV9wUDlwRlBwYmlxYU5veFZEemxhSUVXcHFubks0OW83djloV2EycUx2eDY1WWxrOW96UExEa1ZDV0RGS0J0RC0wdHlRdU5kci13?oc=5",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -695,15 +686,6 @@
       "thumb": ""
     },
     {
-      "title": "Housing, Tenancy, and Organizing for Dignified Living",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzFOVnRSNWtnV1VNS2gyTkxXTjRIQ2FtOXlZakMtSTJocDZqbjZLNG1Ub09vaGJDVXhxanpSdlMwTE11T2J0OFFra0w5QzBGQnMwSXNNZm1qOHhNNzJmRnB1QWpncDNHMEw5TDFrTzZTSGtDMy1MSGpyU2FXZU1URXVuMG5NS282LVp3UzBjeGxoU1pyZjN1Sk4wNlViZw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "Democratic Left",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQzFOVnRSNWtnV1VNS2gyTkxXTjRIQ2FtOXlZakMtSTJocDZqbjZLNG1Ub09vaGJDVXhxanpSdlMwTE11T2J0OFFra0w5QzBGQnMwSXNNZm1qOHhNNzJmRnB1QWpncDNHMEw5TDF",
-      "category": "RGB",
-      "thumb": ""
-    },
-    {
       "title": "We Asked 20 Mayors Whether They Support an NYC-Style Rent Freeze. Here's What They Said",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAydkg3eXNqWTIxUjNDaFp2ZXlQSWpjbmUzdkpaMzhqNW9oOFVHMmZRMFhDbkppeHdHX0FQOHo0YlFEZXBLb1NMTVJMWmg5WktoT0J1Zng3UjNQMUQ0QjQ2ZFoyV2g?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -737,6 +719,15 @@
       "source": "Governor Kathy Hochul (.gov)",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMndpem5SUklIZmx3bTVJNEFLNThreVVKdC1SOFdMWkdjbFVGeU16eXpFeVR0RHJqUDh5TG1vMXN6SDB4OTNMYzUxcTB0Z3EwMkdKLVNVaUNxSGlKcmNERnNjM1BfY19IVk1ybGh",
       "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "Comptroller Mark Levine blasts NY rent-stablized policies for housing crisis: ‘It’s outrageous’",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEVVR1kyUjNVODZEU0ZxUHFsQ3RkSmJpYkFLS1NUQzhOUkQtZlpPLWp2UHZEbGxnN2haMmV5eEU3UUJUcDhXcVRBcVJ1MDNZLVhRcFNudkdXX1c5NGJkU1g3LWxPbmFqUzFJMnJuanFxLXAyR05Sa0Y0enlmbVNDY3F2ZDNMbTQyQzVYZWM5X0N5cjVLNS1JX0x4azlyeDNNTVE?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "source": "New York Post",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEVVR1kyUjNVODZEU0ZxUHFsQ3RkSmJpYkFLS1NUQzhOUkQtZlpPLWp2UHZEbGxnN2haMmV5eEU3UUJUcDhXcVRBcVJ1MDNZLVhRcFNudkdXX1c5NGJkU1g3LWxPbmFqUzFJMnJ",
+      "category": "RGB",
       "thumb": ""
     },
     {
@@ -1733,7 +1724,7 @@
       "title": "New York City's Rent Guidelines Board preliminarily votes for range of hikes, with rent freeze possible",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDJtTlVHSGJJZFBHODJ2N1VndzNLaDJoaHpIZVd0QXFMTUE2RXhjLVk2cEhjcDAtTjFzQXNuaUZXeGViRDRWbl90enpUZTZxMXlPa2NwWkQwcDAydDhHSlphZFVRSE5odVVlVUh6LW0xOGp5RnZlaTl6b3ZjLUlURGFLNlRJVGRJWE4wUW1CWDl1QU5Yc29zT1ZnVldwSDhtM2xWUVJEa0c5dkF5S3A5SmFuSVJOUlJiRUHSAb8BQVVfeXFMTWRTMnZzVlZKcnFybkFJLVlpOG9NaEs5Z1FGb25PdVZsMy1ZeV9DNkdKV24wSnZnaHpBaWl1OWQ2RzY0QkxlZFJIMlNYaWppOWtCUlVuSHVncnpSeTVFSmRvdS1sSTRxZmloTWZhbmgyUWctUEpwakRBdk9wS1h5T29IbXVuTWNkVGNqQWl3RkdkSGltN0ZkeVNSV1Q4Z1AyOGhuN2NUanhXamVmRTdxenZTWDhGdHlmRnhwajRqM28?oc=5",
       "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
-      "source": "ABC7 Eyewitness News",
+      "source": "ABC7 New York",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDJtTlVHSGJJZFBHODJ2N1VndzNLaDJoaHpIZVd0QXFMTUE2RXhjLVk2cEhjcDAtTjFzQXNuaUZXeGViRDRWbl90enpUZTZxMXlPa2NwWkQwcDAydDhHSlphZFVRSE5odVVlVUh",
       "category": "RGB",
       "thumb": ""
@@ -1799,6 +1790,15 @@
       "source": "Ithaca Times",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxPdjIyME1haGhfay1RS2tacFJ6T3hvZkNCNUppZ1ZGMFlDNUxsT0JKTGlaeFAzeFNYWjlSbGJxbmd2aEhwNXZ2dTJ6dFdVRTI3NkRkVWNTX20wTmYxR3RMbnBYRkpPbW9QSnFOUlV",
       "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "Why landlords say NY rent control law is fueling housing shortage",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTd1TFBrMWdfWGw2X21OZ1A0OFVyTzRNSkZJdTBiT042cWZOXzBxQWxnNXlfQ0lQUndteXBYZ0dtU0J5ekJ6NVgtcURsQWhmSmR3Q05ScGlhdnVkWlhOTGhWaHN3czFSVXoxOENWYnZQeHJNYXZlZzJMMGNRbFE0TjZ1QXZ4eG9SQzlNTVkwalZZeVJ3Z2xNUFM5SXJ6NS1Gd1J2dVJ6NElrakNJUTFRSVJ3ejdkUFozeXRQeHVXNVJBQjdmMnlj?oc=5",
+      "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
+      "source": "The Journal News | lohud.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTd1TFBrMWdfWGw2X21OZ1A0OFVyTzRNSkZJdTBiT042cWZOXzBxQWxnNXlfQ0lQUndteXBYZ0dtU0J5ekJ6NVgtcURsQWhmSmR3Q05ScGlhdnVkWlhOTGhWaHN3czFSVXoxOEN",
+      "category": "Rights",
       "thumb": ""
     }
   ],
@@ -2146,6 +2146,15 @@
       "thumb": ""
     },
     {
+      "title": "Akelius heels",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBQ2kxUjR1MUZGaVNZcjRZUGg0YVE0bGpXLVhvaktWU2hKTnd4S3dXOFdqQ3dFS1A0bzVjNWJsWXlwSjdpX1VwUlJUUUw0dHk4QndKOA?oc=5",
+      "pubDate": "Mon, 04 May 2015 07:00:00 GMT",
+      "source": "NOW Toronto",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBQ2kxUjR1MUZGaVNZcjRZUGg0YVE0bGpXLVhvaktWU2hKTnd4S3dXOFdqQ3dFS1A0bzVjNWJsWXlwSjdpX1VwUlJUUUw0dHk4QndKOA?oc=5\" target=\"_blank\"&gt;Akelius",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
       "title": "Tenants protest charity-owned landlord",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYWE3Njd1bUwxemY0dTlzangyZDBORFFtcHMzanowSWFMU0V0LUFJbnZYOFptZ3lXRDFhTVpndElfVmVmSGdQMGZqQnk3RkNxQ1ptbF9fdEw0M09WSzlSWUxKOG1kX3dOaXFhbjZ2ZzlkZmQwV2kydlF4M2QtOWFtZDlORjgzM3lzcUNjXzJDeU5ZWFE4QWxrcXp2UkhGb0RpSGxXYzl0c0xMS1AwSFJmMExVNFRWQ0NqMWM3c3RHTmFzMjBvUjlUV1RzRHlQclE2S19yNFk5ZnJmWFJqWTRJVWs2WDk3TWdWSTBsSnIwaWdzRnBqelRTUUxUMGtYV014NnZXMlBqcDFqQQ?oc=5",
       "pubDate": "Fri, 03 Apr 2015 07:00:00 GMT",
@@ -2169,15 +2178,6 @@
       "pubDate": "Thu, 28 Aug 2014 07:00:00 GMT",
       "source": "Toronto Star",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2pPdjJRSkFYNm1QZVlrelp3R3ZUSGxKc1RwMVl3VTYtcGlWd3d3NXZXeHd6STkzbldmRmdia1BVNzRXVUVwOE5GNU5EeWJKVXlSRHpRTDFkQ0l6bmpyaUYtNENXMjhkVG9KY0M",
-      "category": "Akelius",
-      "thumb": ""
-    },
-    {
-      "title": "New rent monster",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcGt6MXlPd1o4RlZsWXdjRi1oOTlBc3h1YUZxemhVRGdzZmhoUEVvbjVfNHJvT3pnY3g3TlZRcnlTRlB0WlNwdDAzbjFVNHVDblBQSUtJWHo?oc=5",
-      "pubDate": "Thu, 31 Jul 2014 07:00:00 GMT",
-      "source": "NOW Toronto",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcGt6MXlPd1o4RlZsWXdjRi1oOTlBc3h1YUZxemhVRGdzZmhoUEVvbjVfNHJvT3pnY3g3TlZRcnlTRlB0WlNwdDAzbjFVNHVDblBQSUtJWHo?oc=5\" target=\"_blank\"&gt;Ne",
       "category": "Akelius",
       "thumb": ""
     }
