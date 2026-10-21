@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:07:20.417Z",
+  "updated": "2026-10-21T01:17:53.961Z",
   "main": [
     {
       "title": "Opinion | Tighter Rent Control Robs New York Tenants",
@@ -143,15 +143,6 @@
       "source": "The Real Deal",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhpRzZlLVhRQjY2Q1REZ2dNem1oQlp5M1hEUmN1NnozRkZmYVdETFRBLU1nY1c3NzBRVS01OTNaTW4xenlYN3g5dUZQN3hSQ0UtRVNRWGw2c1B3bjhreEdRVTk4dXUzbVZ2bnF",
       "category": "RGB",
-      "thumb": ""
-    },
-    {
-      "title": "New York State Homes and Community Renewal Announces Completion of 173-Unit Affordable and Supportive Housing Development and Health Clinic in Queens",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVZUTmFzZTg0ektnQVNVOGdMMG14dzZFa1NoVXF0R0trUDNkMGlNSVI0Y3JaazcwVE1TRGZFVVE5SjhGRFl6dUpnVF9xeUZ1Z1VRT19UeXNBN2ZkbHNyQVVpSkFFV3NrMXByaVR2RDRvY3htT184SHRGZWlsYnc3LUFlV3h5MXJaLS1qVzlWSjR5OHNPQkFucmVpTmRScWFtRnNaT3NfSGIzaXhjTnlFSg?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "source": "Homes and Community Renewal (.gov)",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVZUTmFzZTg0ektnQVNVOGdMMG14dzZFa1NoVXF0R0trUDNkMGlNSVI0Y3JaazcwVE1TRGZFVVE5SjhGRFl6dUpnVF9xeUZ1Z1VRT19UeXNBN2ZkbHNyQVVpSkFFV3NrMXByaVR",
-      "category": "Housing",
       "thumb": ""
     },
     {
@@ -1001,6 +992,15 @@
       "thumb": ""
     },
     {
+      "title": "Former NYC “worst landlord” strikes a deal, avoids foreclosure",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUZnX0R3aWRpSEMxLTN4SXRpbDJDbDB4OHViekJMOE04clktcVRoOV9LQ1hJekk1cUlMelZMVjJYbEo1RFNObjB3VlJYNkl2WXJfMURmVHFsVXQtNEcxUjJNajNvYzVhSFlOS21YbnNvZ3dGblpmb1oyTU9oNk1JUGp6ZjN2bmh6ZWUwUnM3cVNrM3BJYnEyNUpZdm4?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUZnX0R3aWRpSEMxLTN4SXRpbDJDbDB4OHViekJMOE04clktcVRoOV9LQ1hJekk1cUlMelZMVjJYbEo1RFNObjB3VlJYNkl2WXJfMURmVHFsVXQtNEcxUjJNajNvYzVhSFlOS21",
+      "category": "Bad Landlord",
+      "thumb": ""
+    },
+    {
       "title": "NYC rent board dissenter warns Mamdani-backed freeze could hurt affordable housing over time: 'Slow burn'",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTBnUkl2OWVPU3JQUkt3bmxNUXA0UTc2X005SFNjbmdORnNvem5wbXdYTmU2cjZlaDV0UWxhSDdReXVtM1hXelNLLXJsdHpJYXRUNTVtWkFZeTRuU3FnRjdpQjNIVnpnTm5KU1diUXU5T1YxbGxDQnlPcU5rcWd4VHZYUGpUR0hVbXBFVkEtUTAybmxuNklsRHJoRWNGZzVhdmtzMGFnZllPYTRrbURsRTktOF85UmZXa2dnalpTMzhCd9IBxwFBVV95cUxNakVrWHhHb2Jtb05Ma3ZMd2NYMndLMDk1UW83bmY1eGlxcXZ1T1RJc05MbVhQUGluTUM4dFRfOE8zOGRvcU9mVDFkRVRtWklzNjM5LTk3dUd6ZmlZM2lRZGNjSy1iTmp2TldhT3UxaXlZN1BOaE41b2tuMzRxMGxaX3NlMTM3Y0c1RzRHYVVDWnNnOWhxbGtRT0ZXN2REdkdlOUpUaUlNdk1MbzdTYVFCWVI1M0pFdEE4b2FBZlpWRmhRc0Q4LTBZ?oc=5",
       "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
@@ -1352,20 +1352,20 @@
       "thumb": ""
     },
     {
-      "title": "New ROAD to Housing Act would reshape affordable housing",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVrNkZ2ZVU2UU1QbWJnMXpadzZyQjhNUFU5Z1lPMVZxVUNLUk1ZWkZqQWoyOW85SXN5LVlkWENkX2FOQXlSQ1ZremhaS3R5YlNGaXJRUloxRXJ3Ujd5MDlpMEdJcEk4Qk1Zd2YydFdoQ25DSGNwU0NzeHk1T18zckU4ejNHMlJZZWttX09qdFJZUzJackJJalB1NzBHc3I1MTJYVE4ycm9FeXVQbFdZVEl3?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Nixon Peabody",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVrNkZ2ZVU2UU1QbWJnMXpadzZyQjhNUFU5Z1lPMVZxVUNLUk1ZWkZqQWoyOW85SXN5LVlkWENkX2FOQXlSQ1ZremhaS3R5YlNGaXJRUloxRXJ3Ujd5MDlpMEdJcEk4Qk1Zd2Y",
-      "category": "Housing",
-      "thumb": ""
-    },
-    {
       "title": "Governor Hochul Announces Completion of $20 Million Affordable Housing Development in Ulster County",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDMxbnplQVBlVzI4U2NPTDYtaU40bkZMS3ZtZDdXaFVjZWVPY0dvM0tYaWxMVDhlbXRQTWJPWkE3bHdVYUw4YndiU0J0ZjZTdDQ2dzhPSUtsWFZ4THNSbkxSRGUyV0Q4SjV1djY1N3JGNjlqRHAxdFZib3A5WFNwZEUwVFE2VjRGSlB3akVFMVlScDdlU1lkdWJ5NHUwNHJRLW8ySzY0NkdUVE5OaVRMNUVEbUtPZWs?oc=5",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "source": "Homes and Community Renewal (.gov)",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDMxbnplQVBlVzI4U2NPTDYtaU40bkZMS3ZtZDdXaFVjZWVPY0dvM0tYaWxMVDhlbXRQTWJPWkE3bHdVYUw4YndiU0J0ZjZTdDQ2dzhPSUtsWFZ4THNSbkxSRGUyV0Q4SjV1djY",
+      "category": "Housing",
+      "thumb": ""
+    },
+    {
+      "title": "New ROAD to Housing Act would reshape affordable housing",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVrNkZ2ZVU2UU1QbWJnMXpadzZyQjhNUFU5Z1lPMVZxVUNLUk1ZWkZqQWoyOW85SXN5LVlkWENkX2FOQXlSQ1ZremhaS3R5YlNGaXJRUloxRXJ3Ujd5MDlpMEdJcEk4Qk1Zd2YydFdoQ25DSGNwU0NzeHk1T18zckU4ejNHMlJZZWttX09qdFJZUzJackJJalB1NzBHc3I1MTJYVE4ycm9FeXVQbFdZVEl3?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Nixon Peabody",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNajVrNkZ2ZVU2UU1QbWJnMXpadzZyQjhNUFU5Z1lPMVZxVUNLUk1ZWkZqQWoyOW85SXN5LVlkWENkX2FOQXlSQ1ZremhaS3R5YlNGaXJRUloxRXJ3Ujd5MDlpMEdJcEk4Qk1Zd2Y",
       "category": "Housing",
       "thumb": ""
     },
@@ -1867,6 +1867,15 @@
       "thumb": ""
     },
     {
+      "title": "Arlington apartment complex trades hands amid flurry of deals to close 2021",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVRtN1R6MWJ2Qk5BYmc0NGNwcHZKSTcyLTRjOVJNdTVyejNoRUtXQnlqcTA3ZnVweUZjaW1LVVlEMjhTUl9SeHZxYjlzS0Y0dm5JZXNaVHFrNXZrNV8tel9JMGhFWUFsbV8zZ2ZjVFQxcHBJWk8ybGNoNndvSWhRUnBQa1JpRm1FU2NvdmZ4dUdyN2oxd0E?oc=5",
+      "pubDate": "Fri, 07 Jan 2022 08:00:00 GMT",
+      "source": "The Business Journals",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVRtN1R6MWJ2Qk5BYmc0NGNwcHZKSTcyLTRjOVJNdTVyejNoRUtXQnlqcTA3ZnVweUZjaW1LVVlEMjhTUl9SeHZxYjlzS0Y0dm5JZXNaVHFrNXZrNV8tel9JMGhFWUFsbV8zZ2Z",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
       "title": "News | Akelius Sells €9.1 Billion German, Nordic Residential Portfolio to Heimstaden",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUpUaUpjdW5NTUQ3b0ZpbE00OVA2eDByeThvTThwQ0pUS3hXMnlja2lSMVVJN1pndWhxZENkbHVubEVReVRjUjQycXNiTWVJQ3dPajZvcjB0VVNGRUctZm5NTVJtME1VUW42MHUyaEFDRUV3aDZ4c3RLNXM5cDQ1M1M0WlkyZGtrZXB2RURYYUlPS0x5VlFVSlFsTWpYbDNqbFFHX1BfaGZDOTI1WXo5SjhhQQ?oc=5",
       "pubDate": "Mon, 27 Sep 2021 07:00:00 GMT",
@@ -1998,6 +2007,15 @@
       "pubDate": "Fri, 30 Nov 2018 08:00:00 GMT",
       "source": "The Real Deal",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUFUTnIyaXNqMWNOTWF1N3NYVUJqanJBR21lbzktMnZ4LXo4WVFtU3Njdk1YOUxtT3FpLUY2WDBhajZHblJOR3BQMkt0b2JwVDkzbXFadXNmUWR1TjBtMlpyZGw4T1NaLVI5MDF",
+      "category": "Akelius",
+      "thumb": ""
+    },
+    {
+      "title": "Property Resources-linked entity buying pair of Upper West Side buildings for $26M",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzRJaFFOU2JQTEUzX0JLRUpuVUxfd3Jnazljb1M0anVIZFRhNUFvQjlJQjlianhiOUtxOWE2SjZYSGpvZ2F2MUJwc0NCNVNfUzQ5M3oxbWZteldsNFhuR1VxNHhiR0V6WmgwVVZYUFFhRFMzRjdXV0lKU1JWTnlCSUgtQktTVjZYQjhJUnVQNnhQYm45Wjg1XzRSQl9hNzUzamJ5dmF5NmRTYkVaTFkxVE15MXZLRjBxVl9rQWlKR0JjVVEt?oc=5",
+      "pubDate": "Fri, 30 Nov 2018 08:00:00 GMT",
+      "source": "The Real Deal",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzRJaFFOU2JQTEUzX0JLRUpuVUxfd3Jnazljb1M0anVIZFRhNUFvQjlJQjlianhiOUtxOWE2SjZYSGpvZ2F2MUJwc0NCNVNfUzQ5M3oxbWZteldsNFhuR1VxNHhiR0V6WmgwVVZ",
       "category": "Akelius",
       "thumb": ""
     },
